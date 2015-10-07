@@ -5,9 +5,9 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               Andy Rice
+tagline:
+url:                 http://www.andydrice.com
 paginate:            1
 baseurl:             ""
 
@@ -20,11 +20,11 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Andy Rice
+  url:               http://www.andydrice.com
+  email:             andy@andydrice.com
 
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/poole/poole
+  repo:              https://github.com/addr/addr.github.io
