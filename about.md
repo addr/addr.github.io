@@ -1,30 +1,28 @@
 ---
 layout: page
 title: About
+permalink: /about/
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+[Here's what I'm currently up to.]({{ site.baseurl }}/now)
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
 
-There are currently two themes built on Poole:
+### What's this site about?
+When I originally thought about putting up a personal blog and website, my first thought was: what's the point? There is already so much noise, and the last thing I want to do is add to it.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+But noise is only such if you're fighting to be heard. And that's not what this site is about.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+This site is my personal sandbox, currently serving as:
 
-## Setup
+  * An outlet for getting things out of my head. I think that writing something down is the best way to figure out what you believe.
+  * Public record for personal accountability. Even if no one reads it, a public commitment to something makes me less likely to falter. This is especially helpful for [keeping my focus]({{ site.baseurl }}/now) and [making progress on my current projects]({{ site.baseurl }}/projects).
+  * Lessons learned for my future self, inspired by [Derek Sivers](https://sivers.org/2do). It's easy to forget stuff unless you write it down and keep it somewhere you will refer to later.
+  * Reading list and notes. I take notes on most nonfiction books I read, and it's nice to have somewhere with a definitive list of those notes and books I want to read.
 
-Some fun facts about the setup of this project include:
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+### Contact me
 
-Thanks for reading!
+You should know that I'm currently on an extended social media hiatus. If you want to contact me, send me an email!
+
+[andy@andydrice.com](mailto:andy@andydrice.com)
