@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Money: Master the Game - Book Notes
+title: Money Master the Game - Book Notes
 permalink: /money-master-the-game/
 tags:
 - books
 - finances
-excerpt: This controversial book on personal finance by self-help godfather Tony Robbins follows a similar template as his other material: crazy promises, followed by good information, all completely dependent on what you actually do with it. I don't consider myself any sort of expert with money, but I consider myself financially fluent and there were some good insights here. The best part about this book is Robbins convincing you in his trademark style to start saving NOW, and if it gets anyone to do that, the price of this book is well worth it.
+excerpt: This controversial book on personal finance by self-help godfather Tony Robbins follows a similar template as his other material; crazy promises, followed by good information, all completely dependent on what you actually do with it. I don't consider myself any sort of expert with money, but I consider myself financially fluent and there were some good insights here. The best part about this book is Robbins convincing you in his trademark style to start saving NOW, and if it gets anyone to do that, the price of this book is well worth it.
 ---
 
 Financial freedom is working because you want to, not because you have to.
