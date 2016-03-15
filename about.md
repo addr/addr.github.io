@@ -3,8 +3,20 @@ layout: page
 title: About
 permalink: /about/
 ---
+### About Me
 
-[Here's what I'm currently up to.]({{ site.baseurl }}/now)
+I'm a software geek at heart, although I'm passionate about things where [technology and liberal arts intersect](https://www.youtube.com/watch?v=KlI1MR-qNt8). Code is fun, but what really keeps me up at night is everything else. How can we harness the incredible power of technology and put it in the hands of everyone else? What role should tech play in our lives? Where is the line between creating because we can, and creating because we should?
+
+In other words, I'm fascinated by the liberal arts of technology: psychology, design, business, culture, philosophy, and everything else in between. I went to school thinking I would get into politics, almost majored in philosophy, then went into non-profit fundraising, which turned into digital marketing, and now I write software for a living. Let that be a lesson, kids: almost no one knows what they want to be when they grow up. And that's totally fine.
+
+If you've read this far, you might want to check out a few other things about me:
+
+    * [Here's what I'm currently up to.]({{ site.baseurl }}/now)
+    * [Check out my LinkedIn page for more than you ever wanted to know about my work history.](https://www.linkedin.com/in/andydrice)
+    * [I've also got this blog thing where I occasionally write stuff.]({{ site.baseurl }}/blog)
+    * [I also keep my projects list semi-updated with stuff I'm doing.]({{ site.baseurl }}/projects)
+
+I love talking to new people and read every email, so don't hesitate to drop me a line.
 
 
 ### What's this site about?
@@ -23,6 +35,7 @@ This site is my personal sandbox, currently serving as:
 
 ### Contact me
 
-You should know that I'm currently on an extended social media hiatus. If you want to contact me, send me an email!
+You should know that I'm currently on an extended social media hiatus. If you want to contact me, send me an email! I will usually respond to LinkedIn requests, but I much prefer email and the good 'ol fashioned phone.
 
 [andy@andydrice.com](mailto:andy@andydrice.com)
++1 (404) 939-6841
