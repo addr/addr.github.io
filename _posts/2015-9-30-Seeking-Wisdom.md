@@ -1,0 +1,684 @@
+---
+layout: post
+title: Seeking Wisdom - Book Notes
+permalink: /seeking-wisdom
+tags:
+- books
+- philosophy
+excerpt: You may not have heard of Charlie Munger. But you probably have heard of Warren Buffett. While Warren Buffett gets all the press, Charlie Munger has been his right hand man, almost since the beginning of Buffett's rise to financial icon. This book describes exactly how Munger (and by extension Buffett) uses a handful of mental models to think not only about investing, but business, life, and everything in between. It is a stunning manual of practical advice for how to thrive in life, and it is one of those books I always come back to.
+---
+Part I: What influences our thinking
+
+One: Our Anatomy Sets the Limits For Our Behavior
+
+- What ultimately influences our behavior?
+    - our anatomy
+    - ex. because a bird has wings, it can fly, because we have a brain, we can think
+    - if we change anatomy, we change behavior
+    - think of the quail and chicken brain experiment - the developing brain tissue from a quail into a chicken embryo caused the chicken to bob its head like a quail
+    - or consider the prefrontal cortex or amygdala, and how damage to those affects behavior (the UT Austin sniper had a tumor pressing against his amygdala, the part of the brain linked to emotional states and social behavior
+    - the moral is that our brain sets the limits for how we think
+    - but the brain also works with other parts of our anatomy to form us
+    - understanding how our brains work is important to understand what influences our behavior
+- What ultimately allow us our mental capacities (what we think and feel)?
+    - at a physical level, it is the connections between neurons
+    - the brain is composed of about 100 million neurons, which are all connected to each other
+    - so this really depends on the chemical reactions of neurotransmitters, and how our neurons connect
+- How do neurons connect and communicate?
+    - neurons connect at contact points, or synapses (the space between one neuron and another)
+    - one neuron fires an electrical impulse down a neuron's axon (long fibers extending from a neuron that send information)
+    - that impulse is released as a chemical substance called a neurotransmitter
+    - when the neurotransmitter reaches the dendrite (tiny branches in each neuron that receive information), it triggers another electrical impulse
+    - and so on and so forth
+    - ultimately, this chain reaction is caused by some stimuli
+- How does a neurotransmitter cause this electrical impulse?
+    - on the surface of a receiving neuron are receptor proteins that are tailor made for a specific chemical
+    - the chemical is like a key, and when it hits the right receptor (which is like the lock), the electrical impulse is fired
+- What in the brain causes us to feel good?
+    - one cause: dopamine, a neurotransmitter involved in the brain's reward and motivation system, as well as in addiction
+    - high levels of dopamine are believed to increase feelings of pleasure and relieve pain
+    - another neurotransmitter called serotonin, which is linked with mood and emotion
+    - too much stress leads to low levels of serotonin, and low levels of serotonin are linked to anxiety and depression
+    - antidepressants simply increase the amount of serotonin in our brain to mimic the chemical reactions of happiness
+- What are genes, and why are they important?
+    - genes are really just instructions for cells
+    - a gene is a cell consisting of four chemical molecules: adenine, cytosine, guanine, thymine (or A, C, G, T) joined together in a chain
+    - this chain is called DNA, and it can consist of any number of these molecules, in any order
+    - this DNA makes chromosomes, and each cell in our body is made up of 46 chromosomes
+    - the order of chemical molecules in genes is simply coded instructions for everything a cell does
+    - genes make proteins, which are the building blocks of all the molecules in our body
+    - messenger RNA translates DNA into specific proteins, and it 'switches off' certain genes from making proteins as needed
+    - in their entirety, genes make up the set of instructions that define everything about a living organism
+    - furthermore, all livings things use the same genetic code
+    - but no living thing has the same DNA (except identical twins), which is why everything has different anatomy
+- But if we inherit genes from our parents, why don't we look like a mixture of them?
+    - in most organisms, offspring inherit two versions of each gene for a particular trait (such as eye color) - one from each parent
+    - when these genes combine, one is more dominant than the other, so that gene is used in the child
+    - but the child still has that recessive gene, so it could still be passed on to future generations
+    - on the other hand, if both parents have the same gene for a particular trait, that child will automatically inherit that gene and will have that trait
+    - but for most traits, several pairs of genes govern them, so lots of combinations are possible - sometimes the genes blend, etc…
+- Do single genes cause a given trait to be expressed?
+    - no, genes are part of an interconnected system with many possible combinations, and it's impossible to isolate one gene as causing a specific trait
+    - most genes contribute to more than one characteristic depending on where, when, and how they are switched on
+    - this is a fundamental principle of biology - complex interactions between various components determine how an organism functions, and it makes no sense to try and focus on individual components to try and explain the cause of something
+    - because of this, genes are extraordinarily flexible, with the result being that different configurations of things like neurons can produce the same results
+    - the configuration of neurons (and genes) depends on the total context and given situation
+- Do genes have a life of their own?
+    - no, gene expression depends on environmental conditions
+    - they are activated by the environment, the result of which comes out as our response
+    - the end result is that our behavior is a direct result of our genes and our environment
+- If genes change as the result of environment, do our brains change as well?
+    - yes, our brains continually change as a result of our experiences (the brain can even change during the course of a single day)
+    - experiences produce physical changes in the brain by making new neural connections or generating new neurons
+    - so even though identical twins have the same DNA, they have different brains from different experiences
+    - all this means that experiences are the reason that all individuals are unique, because our brains are different because we haven't had the same experiences (which in turn affects how we behave)
+- Given this revelation, how else is our behavior influenced?
+    - by our state of mind, which is just a function of our experiences and the specific situation
+    - what we are thinking is then converted into a biochemical reality
+    - an example of this phenomenon is the placebo effect, where someone gets a positive therapeutic effect that has was solely caused by that person's belief in a treatment
+    - the placebo effect shows that simply by believing something, we can have a physical effect on our brains, and in our bodies
+- Can the placebo effect work in the opposite way, causing harm?
+    - yes - studies have shown that if someone expects something to go wrong with their health, it often does
+    - the end result is that beliefs have real biological consequences - both good and bad
+- Summarize this into a concise explanation of how our genes and experiences work together to influence our behavior.
+    - our genes determine our baseline biological network, specifically how our neurons will be connected and behave
+    - our experiences further shape our brains by having real biological consequences and changing how neurons connect or creating new ones
+    - and because we know that our anatomy shapes our behavior, the unique blend of genes and experiences which shapes our anatomy ultimately shapes our behavior
+    - in other words, our brains are a product of evolution
+
+Two: Evolution Selected the Connections that Produce Useful Behavior for Survival and Reproduction
+
+- What is evolution?
+    - evolution is change that occurs over time through interaction with the environment
+    - because every living thing uses the same genetic code, it is logical that every living thing descended from some distant common ancestor
+- What major mechanisms are responsible for evolution and for how our brain evolved?
+    - mutations - when DNA is copied to offspring that isn't the same as the DNA from the parent, due to some error - this basically translates into a different instruction when building the eventual organism
+    - mutations are random and unpredictable, so it is impossible to tell which gene(s) may be involved
+    - natural selection - useful traits within a species are preserved across generations, while others die out
+- What were Darwin's major observations in his theory of evolution?
+    - competition and environmental change - a species produces more offspring than can survive to adulthood
+    - Darwin thought the reasons for this were: limited resources caused competition between individuals for those resources, and changes in environment over time produced threats to the offspring's survival
+    - individual variability - variations between individuals in a species means that certain certain individuals are more likely to survive, and those variations which cause survival must in some way be heritable
+    - the world is constantly evolving, not fixed
+    - these observations form Darwin's principle of natural selection - variation in traits that gives an individual an advantage in adapting to changes in their environment increases the chances that individual will survive and pass along that same variation in traits to the next generation
+    - this basically amounts to nature's process of elimination
+- What happens to a species when its environment changes?
+    - traits that are advantageous to survival in that environment are passed along and become dominant
+    - other traits, if they are disadvantageous to survival in that environment, die out
+    - traits that don't have an effect either way will usually be passed along but lie dormant for awhile, for they may become useful again
+    - unless you're a cockroach, which is about the same as it was millions of years ago because it is so adaptive
+    - these changes in a species usually occur very slowly, but sometimes can occur rather quickly (such as those that depend on a relatively small number of genes)
+- Besides mutation and natural selection, how else can genes vary?
+    - genetic drift - random events cause gene frequencies to vary between generations
+    - gene flow - movement of genes in a species from one population to another as the result of interbreeding
+    - symbiosis - cooperative interaction between different organisms that can produce genetic changes
+    - despite the many different ways that genes can change over generations, natural selection is the only know process that seems to adapt organisms over time
+- How can evolution explain why antibiotics aren't as effective as before?
+    - bacteria are organisms just like any other, they survive and reproduce, with stronger bacteria passing on important traits, and weaker traits dying out
+    - so as we create antibiotics to fight these bacteria, they evolve to survive, and the faster we create the antibiotics, the faster they evolve to resist them
+    - so unless we wipe out the entire species, the cycle will continue
+- Are all bacteria bad?
+    - no, and in fact, without bacteria we wouldn't be alive today
+    - the bacteria cyanobacteria was thought to be the original source of oxygen in the world today
+    - and, bacteria enable photosynthesis, a byproduct of which is the oxygen which we breathe
+    - bacteria also breaks down dead plants and animals into something useful like carbon and nitrogen
+- So how has evolution shaped our inner drive towards survival and reproduction?
+    - at a basic level, we are driven by the need to avoid pain, and a desire to gain pleasure
+    - these feelings of pain and pleasure are a useful guide to what is good or bad for us (i.e. hunger produces pain, eating produces pleasure)
+    - likewise, our brain is designed to register pain more sensitively than any other emotion, so we are predisposed to avoid anything painful, and singularly motivated to fix the pain when it occurs
+    - this means we also have such a greater aversion to loss, given that loss is associated with pain, and pain is felt more sensitively
+    - this is reinforced by research that shows we feel more pain from losing than we feel pleasure from gaining something of equal value (and we work harder to avoid losing something)
+- What certainty does this aversion to pain and loss have for human behavior?
+    - it means we take the most rewarding view of events
+    - i.e. we interpret choices and events in ways that make us feel better
+    - we often prefer to hear supporting reasons for our beliefs, make the best of bad situations, and think of ourselves as more talented than others
+- How does evolution help explain which neural connections are strengthened over others?
+    - if certain ones help us in our environment more, those are strengthened because we use them more
+    - likewise, these values are reinforced over time because they give us advantages for survival and reproduction
+    - this is a constantly changing and dynamic process, with these connections being alternatively strengthened and weakened over time depending on environment
+    - so the more we are exposed to certain experiences, the more those connections are strengthened and the better we learn and remember those experiences
+- How is the human brain different from a computer?
+    - the human brain operates by selection of pattern recognition
+    - computers are mostly if-then logic machines
+    - while humans are capable of logic, our brains primarily operate by this pattern recognition that says something which worked in the past is most likely to work in the future
+    - in this way, human brains are superior to computers because we can eliminate 99% of possibilities without thinking about them at all, and we can zero in on the few possibilities out of many that have any chance of success
+- So what is really human nature, or that behavior that remains common to humans that has helped us continually survive in our environment?
+    - because humans have spent more than 99% of our history in hunter-gatherer societies, the behaviors we exhibit today are directly descended from behaviors that allowed survival in that environment
+    - so in order to figure out what human nature really is, we have to look at that environment which selected our adapted traits we live with today
+
+Three: Adaptive Behavior for Survival and Reproduction
+
+- What is the one basic trait that all individuals share, and why?
+    - self-interest: we all want to protect our family and ourselves
+    - because protecting ourselves and our family enhances our own prospects for survival and reproduction, which we know is the basic driving force of all organisms
+    - the counterpoint to this is seeming altruism, but altruism can't have come from natural selection because altruistic individuals are at a great disadvantage when it comes to survival
+    - the result is that true altruism doesn't exist, there is always some sort of self-benefit behind it, most commonly 'altruism' for the greater good
+- But if we are all self interested, how did our social and moral behaviors develop?
+    - because often, cooperation with others is in our best interest
+    - Darwin argues that the do good unto others morality principle is the foundation of this
+    - for a tribe of people working together, with a high standard of morality, would bestow a great advantage on that tribe versus another tribe made up of individuals who are primarily self interested
+    - in other words, mutual aid has tremendous survival value
+- So under what conditions do people cooperate?
+    - consider the Prisoner's Dilemma: both are better off denying the crime and receiving a small punishment, but the dilemma is that you can't trust your partner to deny
+    - so cooperation only works if you can trust your fellow man, and cooperation is much more profitable than always acting in self interest
+    - since we know cooperation is profitable, we try to win and keep the trust of our fellow man, and cooperate whenever we can
+    - so an effective strategy is to cooperate at first, then do whatever our 'opponent' did last time - so if he screws us over, we screw him over next time - aka reward past cooperation and punish past defection
+    - we also cooperate with our family more than we cooperate with others, because even if cooperating with family harms us, the net effect is positive because they share our genes
+- Why are we most predisposed to fear?
+    - because life is fundamental - if we die, everything else becomes irrelevant
+    - fear is the natural evolved response to help us anticipate danger and avoid pain, and as such, is our most basic emotion
+    - this is because failure to detect threats is more costly than false alarms, so we learned through trial and error that pain could be avoided more often by responding with fear and running away
+- How does fear work?
+    - it is our biological warning signal for avoiding pain, it warns us of potential harm and keeps us from acting in self-destructive ways
+    - the fear we feel depends on our interpretation of the threat and our perception of control - the more helpless and vulnerable we feel, the stronger our emotion for fear becomes
+    - it also depends on our life experiences and the specific situation (i.e. if we have experienced something many times, like a roller coaster, we are less likely to be fearful of it because our past experience has said that riding a roller coaster is ok)
+    - in essence, our emotions (especially fear) are designed to provide information that help us make better decisions
+- Why do we dislike uncertainty, and how does this help us survive?
+    - if we are uncertain of something, we can't predict how it could happen, so we can't assume that will be helpful for us
+    - consider how agriculture must've started: someone had to eat the first wild vegetables and plants, and when he/she didn't get sick, we knew that these vegetables were beneficial to us
+    - in essence, to understand and control our environment helps us to deal with the future - this is why we look for patterns and causal relationships
+    - so we have to explore our environment to remove the uncertainty, and this enables our continued survival and reproduction by better helping us to understand and control our environment
+- So why is the brain attracted to the unknown and novel experiences?
+    - because the unknown is potentially rewarding
+    - by exploring the unknown we discover our environment and learn how to better deal with the future
+- What implications do these findings have for humans living in the world today?
+    - that being flexible and learning a variety of options to choose from to deal with the world is of great value
+    - and that we should always be trying to find new ways to deal with the world, not repeating old patterns
+    - this is supported by studies that show we learn better when we mix new information with what we already know
+- Why are we quick to use emotions before reason when perceiving things and events in the world?
+    - it is a consequence of our tendency towards fear - we have to stereotype and classify things quickly if we were to survive in a harsh world
+    - stopping to use reason and weighing consequences could mean death - the only option was to rely on our emotion and intuition to form quick impressions and judgements
+    - basically, fear tells us that it is better to be safe than sorry
+- Why is it that males and females have different priorities in life?
+    - evolutionarily, the central act of every living thing is to reproduce
+    - the part that each man or woman plays in the act of reproducing is obviously determined by anatomy, and we've already established that anatomy influences behavior
+    - the male anatomy is such that he has very low costs of reproduction, so the game is designed for him to produce a lot of children
+    - conversely, the female anatomy is such that she has very high costs of reproduction (nine month pregnancy, then many years of child caring), so the game is designed for her to figure out how to best get access to resources for herself and her children
+    - this ultimately drives the behavior and priorities of men and women
+- What is parental investment, and how does it explain the motivations of men and women?
+    - any investment by a parent in an individual offspring that increases the offspring's chance of surviving (and hence reproductive success) at the cost of the parent's ability to invest in other offspring
+    - since the goal of evolution is reproduction, and a man's parental investment is very low, a man should want to have sex with as many women as possible
+    - this causes competition among men for women, and leads men to act so as to eliminate his competition
+    - but because the parental investment of women is much higher, her goal isn't simply to have as many children as possible, but to make sure she and her offspring survive (and further go on to reproduce)
+    - therefore, women are more discriminating in who they reproduce with, choosing the mate who they believe will be able to best help her and her offspring survive
+    - it is worth noting that, like pretty much everything in the world, this is context dependent
+- How does being social help contribute to our evolutionary goals of reproduction and survival?
+    - because being social and cooperating with others provides distinct advantages over being alone
+    - i.e. there is safety in numbers - a group of people is better able to hunt and get food than a single person alone, and likewise for maintaining safety and reproducing (how can you reproduce if you stay a loner?)
+- What is reciprocation, and how is it the foundation of social interaction?
+    - the "I scratch your back, you scratch mine" mentality - if I do something for you, you will do something for me at a later point
+    - this is the only way cooperation works - if we trust that someone will help us when we help them, otherwise there is no reason for us to help
+    - this is why we are wary of strangers but trust our friends, and why our relationships are so different depending on how well we know people
+    - the whole idea is to encourage people to treat us better next time around
+    - but reciprocity only works if we live in a small society so we can keep track of 'services' given and received, and the cost of the act is pretty much the same as the future favor the recipient receives
+    - this is why when, with all else being equal, a person might choose a local small town mechanic over one near the highway - since the local guy depends on word of mouth advertising, he has a strong incentive to not screw you over
+- Do we really care about our reputation? Why?
+    - yes - we behave differently when we think people are watching (supported by multiple studies)
+    - other studies have shown that people donate more to charity when they are being watched, and when they get public recognition
+    - reputation was important in a hunter-gatherer society because having a bad reputation could mean expulsion from the group, which means it would be that much harder to get access to food and sex
+    - fear of disapproval persists today in many forms - fear of God, of the police, of the judgment of neighbors or loved ones
+- Why aren't evolutionary explanations about adaptive behavior sufficient to explain all causes for behavior?
+    - we already know that there are many causes for behavior, and there is no fossil evidence of how early humans behaved
+    - evolutionary explanations about the brain can't be experimentally tested
+    - and a trait that is found everywhere isn't necessarily genetically specified
+    - but the behavior that was critical for survival and reproduction throughout history still largely applies today, so it can't be discounted completely
+- Besides evolution, what is the other major component that has shaped human psychology?
+    - culture - the unique customs and practices we learn from others, either from being taught or observing
+    - this culture evolution is much faster than genetic evolution, and it isn't necessarily inherited from generation to generation
+    - instead, we take what the culture gives us and we learn from it
+    - but genetic evolution and culture evolution interact - i.e. we are born with the ability to learn a language and speak, but the language we speak is a result of our culture
+    - furthermore, culture influences biology by creating the environment in which natural selection will take place
+- So what is our basic nature?
+    - it is a product of our biological and cultural history
+    - evolution explains our biological constraints - we were equipped with traits that increase our chances for survival and reproduction
+    - as such, our biological base nature is such that we behave according to what is in our own best interest
+    - then, our life experiences (including culture) either strengthen or weaken this base nature
+- Summarize the different forces that shape human behavior.
+    - genes - environmental stimuli cause responses in our genes that affect our anatomy
+    - the functions of our genes have evolved from the hunter-gathered society, which led to a strong aversion for loss and a tendency for fear
+    - life experiences - everything that happened after our genes provided the biological instructions for our anatomy has further shaped (and continues to shape) our state of mind
+    - environment - the context of our environment shapes the experiences we have, and the seeming randomness of our environment means we are predisposed to be open minded to new experiences as a means of adaptation
+    - consequences of our actions - if the consequences of an action are rewarding, we are likely to repeat that behavior, and vice versa; this is how we adapt
+    - it is important to note that although the consequences of our actions in relation to the current environment affect future behavior, what we think happens is ultimately what matters
+    - this is why we can act in ways contrary to our self-interest - we don't fully understand the consequences
+- Why do we not fully understand consequences, even in repeated situations?
+    - firstly, because there is a disconnect between the ancestral world for which our brains are adapted, and today's world, which means that many of our traits are better adapted for the demands of that world
+    - as a result, sometimes these traits cause us to make misjudgments
+    - i.e. - we are good at picking up on signs that someone is trustworthy, but we can be fooled by actors or con artists and those instincts can betray us
+    - but we will still rely on these tendencies in the future - we won't discount them completely, even if it results in us being repeatedly conned
+
+Part II: Psychology of Misjudgments
+
+- What are the 28 reasons for misjudgments that can be explained by psychology?
+    - bias from mere association - automatically forming an opinion of something because of its association with something else (also includes Persian Messenger Syndrome, i.e. not wanting to be the bearer of bad news)
+    - underestimating the power of rewards and punishment - people repeat actions for which they are rewarded, and avoid actions for which they are punished
+    - underestimating bias from our own self-interest and incentives
+    - self-serving bias - overly positive view of our abilities and future (includes over-optimism)
+    - self-deception and denial - wishful thinking, i.e. distorting reality to reduce pain or increase pleasure
+    - bias from consistency tendency - being consistent with prior commitments even if we know they don't serve our interests. Includes confirmation bios - looking for evidence that confirms our actions and beliefs and ignoring or distorting disconfirming evidence
+    - bias from deprival syndrome - reacting when something we like is taken away or lost, includes desiring more what we can't have
+    - status quo bias - preference for keeping things the way they are, minimizing effort, preferring default options
+    - impatience - valuing the present more highly than the future
+    - bias from envy and jealousy
+    - distortion by contrast comparison - perceiving the absolute magnitude of something based only on its difference to something else presented closely, also underestimating the consequences of gradual changes
+    - bias from anchoring - over-weighing certain initial information as a reference point for future decisions
+    - over-influence by vivid or the most recent information
+    - omission and abstract blindness - only seeing stimuli that grabs our attention or that we encounter, while neglecting important missing information or the abstract
+    - bias from reciprocation tendency - repaying in kind what others have done for or to us (i.e. returning a favor)
+    - bias from over-influence by liking tendency - trusting people we know and like, as well as bias from over-desire for social acceptance and bias from disliking (tendency to disagree with people we don't like)
+    - bias from over-influence by social proof - following the crowd, imitating the behavior of many others
+    - bias from over-influence by an authority - trusting a perceived authority figure or expert
+    - sensemaking - constructing explanations that fit an outcome. being too quick in drawing conclusions, and thinking events that have happened were more predictable than they were
+    - reason-respecting - complying with requests merely because we've been given a reason. includes underestimating the power in giving people reasons
+    - believing first and doubting later - believing what is not true, especially when distracted
+    - memory limitations - remembering selectively and wrong, including influence by suggestions
+    - do-something syndrome - acting without a sensible reason
+    - mental confusion from say-something syndrome - feeling a need to say something when we have nothing to say
+    - emotional arousal - making hasty judgments under the influence of intense emotions. includes exaggerating the emotional impact of future events
+    - mental confusion from stress
+    - mental confusion from physical or psychological pain (or the influence of chemicals or diseases)
+    - bias from over-influence by the combined effect of many psychological tendencies operating together
+- When is behavior rational or irrational?
+    - depends on the individual's perspective and context
+    - behavior that seems irrational may be fully rational from the individual's point of view
+    - there is always some background behind the behavior in which the behavior makes sense
+    - since our context and environment determines our behavior, any causes for behavior must be looked at in these unique contexts and environments
+
+Two: Psychological Reasons for Mistakes
+
+- How does association bias cause us to make mistakes?
+    - because we automatically feel pleasure or pain when we connect a stimulus with an experience we've had in the past or with values or preferences we are born with
+    - and likewise, we are more apt to move towards things that we connect with pleasure, and move away from things we connect to pain
+    - it also makes sense that we would most easily remember those events which are most vivid and/or events we have repeated the most, which means that vivid or recurring events have an outsized effect on our psychology
+- Can association bias affect our physiology?
+    - yes, as has been verified through experiments (Pavlov's dogs, etc.)
+    - in one experiment, mice were given saccharin water with a nausea inducing and immune system weakening drug
+    - the saccharin water was an incentive, but the mice feared it due to the combination of the nausea
+    - but perhaps more interestingly, when given saccharin water alone, the mouse immune system weakened and the mice got more infections even though no drug was given to induce this affect
+- How can people influence us by using association bias?
+    - by associating whatever they are selling with something we like
+    - think the politician avoiding negative things or the advertisements with unrelated sexual overtones
+- What is Persian Messenger Syndrome, and how is it an example of association bias?
+    - the "kill the messenger" phenomenon where people tend to dislike others who give them bad news, even though they didn't cause it
+    - this gives us an incentive not to give bad news or otherwise sugar coat and distort it so that others will like us
+- How can we avoid succumbing to association bias?
+    - evaluate people and situations as they really are, in the context in which they are presented, on their own merits
+    - don't judge individuals based on his/her mere association with something positive or negative
+    - tell people to be honest with you, especially with bad news, and not to delay
+    - don't rely on past experiences when deciding whether something will cause pleasure or pain - past experiences are more often than not context dependent
+    - to end a certain behavior, associate it with a negative emotion (such as showing a smoker pictures of death)
+- How does reward and punishment influence our behavior?
+    - simple: we do what is rewarding and avoid what we are punished for
+    - likewise, we learn right and wrong based on the consequences of our actions
+    - causes that reinforce a certain behavior make us repeat that behavior, and likewise causes that don't reinforce a certain behavior make us stop that behavior
+    - at least in the beginning, rewards and punishment are most effective when meted out without delay and each time the behavior is repeated
+    - then once a behavior is learned, variable rewards strengthen the behavior, or rewards that are given out unpredictably (such as a gambler - he doesn't know when he will win, but he repeats the gambling until he does)
+    - perhaps obviously, the greater the reward, the harder it is to stop a certain behavior
+- How does reward and punishment provide insight into human behavior as a whole?
+    - it means that people do what works - they go to where there is a reward
+    - this also means that if we reward what we don't want, we get it
+    - an example of this is looking at free welfare and health benefits - the more generous they become, the more people use them (supported by studies in both the US and Sweden), and the more they get abused
+- How does reward and punishment explain why people steal?
+    - because mostly, compared with a potential corresponding punishment, the reward is great and the opportunity is right in front of them
+    - opportunity is a big part of it - if people are tempted, they are more likely to steal, so you have to take away the temptation
+    - an example is the NYC police department pension system - the pension is determined by your last year of pay, so everyone in the department conspires to give a retiring officer ridiculous overtime and they retire with an outsized salary
+    - the system is set up for people to cheat it, and when they don't get punished, they don't feel the least bit of shame for doing it, and indeed they feel entitled to it
+- How does superstition fit into the reward/punishment paradigm?
+    - superstition is nothing more than people repeating a behavior they believe might produce a reward, like a sports figure wearing lucky socks
+    - even though the two aren't in the least bit related, the past reinforcement of that behavior means that behavior will be repeated even though there is no logical connection
+- What is the role of incentives in the reward/punishment model?
+    - they are the behavior reinforcers - the things we give to reinforce certain behavior and discourage other behavior
+    - the example given is of the FedEx overnight shift - when employees were paid by the hour, all sorts of problems persisted
+    - but when they switched to paying employees by the shift, and letting them all go home, the problems cleared up overnight
+- So how do our past experiences of risk and reward influence our current behavior?
+    - we will associate a present experience with pleasure or pain based on a similar past experience, and act accordingly
+    - this is despite the fact that in most all situations, a good outcome or a bad outcome aren't necessarily determined by the decisions we made, but more determined by chance
+    - so relying too heavily on past experience will cause us to over react or under react to a given circumstance, and lead to mistakes if we don't learn to recognize it
+- Does it matter in which size or order rewards or punishments arrive?
+    - yes! frequent rewards feel better - i.e. it is better to get $50 twice than $100 once
+    - likewise, combined loss is less painful than frequent loss, so it is better to lose $100 once than lose $50 twice
+    - the sequencing also matters - we would much rather lose $100 then gain $50 instead of gaining $50 then losing $100
+    - the moral is that we like to get bad experiences over fast and draw out good ones
+- How can association and enforcement of behavior be used to condition reflexes?
+    - praise and pleasure are behavior reinforcers, so when given an opportunity, it is better to encourage what is right than to criticize what is wrong
+    - set examples - i.e. the way our justice system works… punishing someone for having done wrong is stupid because the wrong cannot be undone, we punish them to stop them from repeating that behavior and to also warn others about engaging in that behavior
+    - don't put too much stock in past experiences (good or bad), for the same actions under different circumstances could cause vastly different consequences
+    - recognize what is your doing and what is simply chance and separate the two
+    - since people do what works, the incentives have to be right - this means incentives should be tied to performance and to the economics of the business, with the incentive structure easily understood, and the activity directly tied to what you finally want to accomplish
+    - reward individual performance after they accomplish something - don't reward effort or length in the organization
+    - money isn't the only motivation, and money could disincentivize people if they are being rewarded for something they enjoy doing anyway (the perception shifts from something fun to something they are doing just for a paycheck)
+    - systems and rules must absolutely be used to encourage the behavior you want and discourage the behavior you don't want
+    - but, systems are hard to change when the person controlling the system benefits enormously from it
+    - decision-makers should be held responsible for their decisions, like packing your own parachute
+- Along these lines, what are Warren Buffet's incentive compensation principles?
+    - goals are: (1) tailored to the economics of the specific operating business, (2) simple in character so that the degree to which they are being realized can be easily measured, (3) directly related to the daily activities of plan participants
+    - "lottery ticket" incentives such as shares of stock aren't used because the value of those are totally out of control of the person whose behavior is being targeted
+- How does the perception of self interest and a system of incentives work together to influence behavior?
+    - people are both biased by incentives, and will always do what they perceive is in their best interest
+    - this means that incentives for the decision maker influence his/her behavior, so we have to recognize self-interested behavior in others
+- How should we consider advisors and consultants in light of the self-interest argument?
+    - consultants and advisors will always be biased by their incentives just like we all are - and what is good for them may not necessarily be good for us
+    - good example is lawyers - much of the time, litigation is more lucrative than settlement, so even if settlement is in your best interest, they may advise litigation regardless
+    - or consultants - they are biased to establish that you have a large problem, one that will likely result in them being able to send big bills
+    - in the end, they are all commissioned salesmen - and as Charles Munger says, "All commissioned salesmen have a tendency to serve the transaction instead of the truth."
+    - especially evident in the financial services realm - investment bankers have huge incentives to get an IPO done, regardless of whether or not the company is ready, brokers have huge incentives to trade, regardless of whether or not it is the right decision, etc…
+    - and also those in the medical profession - psychiatrists generate a steady income by telling you another visit is required, doctors make more money the more procedures they order, whether or not the procedure is medically necessary, etc…
+- In this frame of reference, why would a banker approve a bad loan?
+    - because the system rewarded them to - in the housing bubble, all the incentives were to sell more loans so they could be bundled up together and sold as high quality securities - and the system rewarded them for this even though the loans were bound to default in the first place
+    - so the system paid them to do the wrong thing!
+- So why do people give a very biased view of reality?
+    - it is just another example of people doing what they perceive is in their best interest
+    - money, prestige, power, these are all incentives which grossly affect things like project planning and projections where it is in a person's interest to overestimate
+    - this is especially true with projections and estimates, even more so when the person making those estimates and projections stands to benefit from the result
+- Knowing this, how can we persuade people?
+    - appeal to peoples' natural fear of losing, not the benefit of gaining
+    - reason fails to persuade people - it is only appealing to their self-interest that we can hope to change them
+    - but ultimately, trying to change people is extremely difficult, so it is probably best to avoid trying to do that at all!
+    - changing people affects their motivation, feelings of responsibility, and tendency to reciprocate, so in order to try and change their behavior, you have to address all three
+    - in business, this translates into giving people autonomy to be responsible for their own niche - if you start making decisions for their niche, they lose responsibility and won't behave as you want them to
+- What can we keep in mind that will help us evaluate and understand someone else's motivations?
+    - first, don't automatically trust people who have something at stake from your decision. always ask: What are the interests? Who benefits?
+    - second, example people's motivations. what are they rewarded or punished for? are they benefitting or losing from the status quo?
+    - financial incentives aren't the only incentives in town - there are moral, social, shame, guilt, etc… (think of the requirement that restaurants post their hygiene scores)
+    - pressuring people and giving orders often doesn't work - rather, it is better to convince by asking questions and illuminating consequences so that people can think for themselves and discover what is in their best interest
+- Why is it that people generally over estimate their capacities and have an overly optimistic view of themselves?
+    - we have a tendency to see ourselves as unique, beautiful snowflakes with special abilities
+    - we commonly overestimate the degree of control we have over external events while underestimating the effect that chance plays
+    - all this combines so that we think we can predict the future much more than we actually can, while considering ourselves above average in every way
+- How is this effect multiplied when we feel knowledgable about something or have had past successes?
+    - it grows even more - the association bias comes in and we think that because we were successful at this one thing before, we will be successful at it again and subsequently overestimate our capacities
+    - "There is nothing like success to blind one of the possibility of failure."
+    - and when we've had past success there tends to be forces that reinforce our perception of above average abilities - family praise, media coverage, etc.
+    - even if that past success was primarily determined by chance, we credit our own abilities (and we blame something else if we fail)
+    - note that this works the opposite way when we are considering others - other peoples' successes are because of luck, and their failures are because of their own shortcomings
+    - all this combines to enable future mistakes: we draw the wrong conclusions from our successes and failures, and we underestimate luck and randomness in outcomes
+- What is the man with a hammer syndrome, and why does it frequently lead to mistakes?
+    - the old saying that goes: "If the only tool you have is a hammer, every problem looks like a nail."
+    - or, the more we think we know about a given subject, the more likely we are to create solutions using that knowledge, even if the problem doesn't warrant it
+    - think of the surgeon - when he knows how to operate and has financial incentives for performing surgery, how likely is he to recommend less invasive techniques even though the medical outcome will be the same?
+    - "experts" will define problems in ways that fit their tools rather than ways that agree with the underlying problem
+    - this syndrome is really just someone being biased by their incentives - our reputation (and likely, our earning capacity) is tied up in our knowledge of something, and if we can't use that knowledge, we won't have reputation and/or earning capacity
+- How does this optimistic view of ourselves manifest when we are judging other people?
+    - we often use association bias and associate certain personality qualities with other characteristics (if someone sounds articulate, we think they're smart, if someone talks brashly we think they are an asshole, if they are quiet we think they are antisocial, etc.)
+    - in other words, preconceived ideas about certain characteristics lead us to judge people as better or worse than they actually are
+- How does this translate into interviewing and hiring people?
+    - interviewing is often overestimated - an articulate and outgoing person interviews better, even if they aren't as qualified or dedicated as a reserved person
+- How do we recognize this natural bias and avoid it when considering people?
+    - learn to be a realist and look at things as they truly are, while recognizing that we have a natural tendency to underestimate chance
+    - overconfidence is dangerous - it leads to unrealistic expectations and makes disappointment that much more powerful
+    - recognize your limits - how well do you know what you don't know? in Charles Munger's words: "It's remarkable how much long-term advantage people like us have gotten by trying to be consistently not stupid, instead of trying to be very intelligent."
+    - don't do anything that you don't fully understand yourself
+    - focus on what can go wrong and the consequences while building in some margin of safety in your decisions. know how you will handle things if they go wrong by asking yourself how you can be wrong, and who can tell you if you're wrong
+    - develop a wide range of strengths so you can avoid the man with a hammer syndrome. this way you can compensate for the bias in one discipline by using ideas from other disciplines
+    - consider people's past accomplishments and actual behaviors over a period of time rather than first impressions, as these will more often than not be a good predictive measure of future performance
+    - and when looking at records, remember that successes will draw much more attention than failures
+- How does self deception contribute to making mistakes?
+    - we have a natural tendency to deny and distort reality to make ourselves feel better - it is part of that overriding aversion to pain and attraction to pleasure
+    - in other words, we look at things the way we want to and deny what is inconsistent with our deeply held beliefs
+    - we prefer comfort to truth
+    - another form of this is wishful thinking, which is just another method of denial in order to offer ourselves a more pleasant reality
+    - and yet another form is believing something is true because it sounds believable or we want to believe it
+- How can we guard against self-deception when making decisions?
+    - recognize that you yourself are the easiest person to fool, so you must take extra pains to not fool yourself
+    - central to this is seeing the world as it is, not as we want it to be - bad news that is true is better than good news that is wrong
+    - ask yourself - what is the price of denial? if it is worse than facing reality, we must face reality
+- What is our tendency to be consistent?
+    - refers to the fact that once we've made a commitment and invested something - we want to remain consistent because we want to feel we've made the right decision, and the more we invest in that decision the harder it is to change behavior
+    - we want to maintain a positive self-image, and inconsistency appears to promote the opposite
+    - tangential to that is behaving in ways that are consistent with how others see us - if people label us one way, we try to act that way whether or not the label holds true
+- How does this explain why we hang on to bad ideas, bad relationships, and bad investments?
+    - because if we have a significant amount invested in those things, the more we value them and the more we feel we have to continue them
+    - this is a way of protecting our reputations - if we quit, it is seen as wasting our efforts and accepting a loss, and by continuing we avoid both those
+    - example is the Vietnam War - the longer the war continued the harder it was to justify additional investment in it, but on the other hand the longer it continued the harder it became to quit with such massive losses and nothing to show for it
+    - in other words, it is hard for us to change course because we associate being wrong with a threat to our self-interest
+- Why do put more value on decisions that we've paid for?
+    - for example - you pay for a movie ticket and 20 minutes into the movie you hate it. why wouldn't most people walk out?
+    - we don't want to abandon a course of action that we have sunk money into - we don't want to feel that money is a waste
+    - but it is a fallacy - the money has already been spent, you can't get it back!
+    - it doesn't make sense to continue along a course of action due to some sunk costs, especially if you know that course of action is the wrong one
+- Knowing this, why are long term strategic plans not very useful?
+    - first, they are very public - and we are most consistent when we have made a public commitment
+    - added to that, written commitments are stronger than verbal because they take more effort to produce
+    - all this combines to mean that our desire to stay consistent with that plan, even if the situation upon which the plan is based changes, will often trump common sense when choosing how to act
+    - things change and unexpected things will always happen, and the best you can do is try to respond intelligently (and not do stupid things) and take advantage of the unusual opportunities that come along
+    - you can try to look ahead as far as you can, but in most situations that isn't very far
+- What are some common traps that consistency causes us to fall into?
+    - the couple who is unhappy in a relationship, but because they have invested so much time, sticks it out and remains unhappy
+    - the low ball technique by the salesman - say you agree on one price for a car, then the salesman changes the terms (says he discovered an error) and the car ends up being more expensive, but you buy it because you have already invested the effort to buy this car and you don't want to be inconsistent
+    - or the item that is advertised at a super low price, and when you rush out to buy it, they are "out of stock", but they have a similar model for just a little bit more money
+    - at the negotiation table - someone labels us "cooperative and fair", which automatically gives us a reputation to uphold, and we want to be consistent with that label
+    - the foot in the door technique - people get us to agree to a small request that we can't refuse in order to make a much larger request that we also won't refuse because we want to be consistent
+- So how do we get people to take responsibility for their actions?
+    - make something voluntary
+    - this is because we take responsibility for our behavior in cases when we are internally motivated by satisfaction or interest, when we feel in control, and when we are free from incentives or outside pressure
+- How are strong convictions dangerous?
+    - they create an inordinately strong idealogical bias so that people who hold them are motivated to seek out facts that confirm those convictions
+    - indeed, idealogical is perhaps one of the most dangerous biases there is - entire wars have been justified by ideology, and religious violence is justified by ideology
+    - it locks your brain into a pattern that inhibits natural cognition and makes you blind to some very evident truths that don't totally jive with your ideology
+- How do we avoid the traps of consistency?
+    - make a decision always subject to change - sometimes things don't go the way we want them to, and instead of doggedly remaining consistent, we should recognize that the situation has changed and do something about it
+    - in order make sure people live up to their commitments, get them committed in advance and make it a public stand
+    - but likewise, don't force people to publicly make commitments you may want to change later
+    - when asked to do a future action that you are uncertain about, always ask yourself if you would do this if you had to do it tomorrow
+    - "the most important thing to do when you find yourself in a hole is to stop digging." in other words, don't get caught up in sunk costs - time, effort, and money spent are gone, but that doesn't mean you have to spend those things in the future
+    - "skate to where the puck is heading, not where it has been". decisions should be based on where you want to be, not where you've been (or where others are going)
+    - remember that what happened in the past may be a guide for estimating how likely something is to happen in the future
+    - let someone who wasn't committed to an earlier decision take over the issue - they won't have the same consistency bias
+    - be relentlessly self-critical and unlearn your best loved ideas - if we only look to confirm our beliefs, we will never discover if we're wrong. when you find information that contradicts your existing beliefs - you've got an obligation to look at it quickly
+- What is deprival syndrome?
+    - the idea that we are more averse to losing things we already have than we want to benefit from gaining something we don't have
+    - so when the threat of loss is near, we value the thing we might lose disproportionately
+    - this effect increases when we have more committed, and can lead to very violent reactions
+    - for example: labor negotiations where something is being taken away - the violence in the early 1900s was the effect of deprival syndrome because management was constantly reducing wages
+- How is deprival syndrome evident in overly conservative decisions?
+    - being overly conservative is just a manifestation of deprival syndrome - risk means we risk losing something (money, prestige, reputation, etc…)
+    - similarly, this leads people to do things like cover up the truth
+- How does deprival syndrome and loss aversion influence how we interpret information?
+    - we are more sensitive to information that has negative implications for us
+    - an example of this is information about our health - studies have shown that when we are presented with the negative health consequences of a certain behavior (i.e. smoking, bad diet), we are more likely to change that behavior than if we were presented with the positive health consequences of not doing that behavior
+- How does deprival syndrome influence how we view our possessions (i.e. things we've paid for)?
+    - loss aversion makes us more likely to maintain the status quo - i.e. a stock we have is sinking, but we want to hold on to it to get back what we paid
+    - in other words, we put a higher value on things we already own than things we don't, even if we could buy those same things for the same or lower price
+    - another example is real estate - we hate to sell a house for less than we paid for it, but we don't feel too bad if we miss an opportunity to sell it for more than we paid, even though they both represent a very real loss
+- Why do near misses wreak so much havoc on human cognition?
+    - because we place a higher value on something and want it more if we almost have it then lose it
+    - all these near misses are like small reinforcements - we can just feel this thing in our grasp
+    - but then after a loss (especially a near miss), we want to get even, so we take bigger risks because we are even more fearful of not getting back to where we were
+    - this cascade effect explains how gamblers come to have a chronic problem - one near miss propels them to keep going back until they are broke
+    - the reality is that it is most often a mistake to try and win something back the way you lost it
+- Why is it that we value the scarce and what we can't have more than what we can have?
+    - "to forbid us something is to make us want it", or we want what we can't have
+    - it is loss aversion all over again - even if we don't currently have something, the idea that it is out there and we can't have it, or that it might soon be gone (scarcity) propels us to value it more
+    - furthermore, even if something has been scarce for awhile, we value it less than something that has become recently scarce
+    - look no further than the limited time sales - salesmen and companies create a sense of urgency and deprival syndrome by telling us that something will be gone soon if we don't hurry, or a sale will end at a certain time - this inherently makes the product more valuable
+    - likewise, competition creates demand - if we perceive that something is likely to become scarce because other people want it, we want it even more
+    - the dark side of this is that when we can't get something, we value it much less, and when we can get something that others don't want, we also value it much less
+- How do we avoid the pitfalls of deprival syndrome?
+    - first, know your goals and options and ask: why do I want this? is it emotional or rational?
+    - realize that what you paid for something has no relevance to what it's worth, and ask: if I hadn't made the investment (or purchase), would I make this investment today at today's price?
+    - people respond to immediate crisis and threats, whereas anything that happens gradually tends to get put off. if we want people to take a risk, we should make them feel like they're losing, and likewise if we want them to maintain the status quo, we should make them feel safe
+- What is the status quo or do-nothing syndrome?
+    - our natural tendency to prefer to keep things the way they are - we favor routine behavior over innovative behavior
+    - the more emotional a decision is or the more choices we have, the more we prefer the status quo
+    - this means that we are more bothered by failing from doing something than by failing from doing nothing
+- How does this explain why we prefer the default option when we have a number of choices?
+    - since we prefer to do nothing, we are most likely to leave the choices as they are rather than think about each one
+    - example of the car insurance experiment where the default options were preferred over other options, even when the default wasn't the cheapest
+    - this effect also shows up in decisions about organ donation, health care plans, and pension savings
+- What is the Noah principle?
+    - it took Noah 20 years to build an ark while everyone thought he was stupid - until it started raining
+    - it is the anti do-nothing syndrome where we act when we know we should instead of giving in to our natural tendency towards the status quo
+- How do we avoid the pitfalls of do-nothing syndrome?
+    - deciding to do nothing is a decision itself, and the cost of doing nothing could be greater than the cost of taking an action
+    - always remember what you want to achieve so you'll get off your ass and go do it
+    - once we know what to do, we should do it instead of procrastinating around and doing nothing
+    - perhaps the greatest skill a person can have is being able to do the right thing whether you want to or not, but it is also one of the hardest skills to learn
+- How does impatience influence our decision making?
+    - we automatically give more weight to what is in the present than what is in the future because we perceive the future as less certain
+    - this means we have a tendency to sacrifice the future for short-term, immediate benefit (think of things like eating habits - we know we shouldn't eat certain foods, but we often do even though doing so has long term detriments)
+    - this is supported by numerous studies that show we become more impatient when rewards are more immediate, and more patient when the rewards are farther away (i.e. getting a reward now and in a year or getting one reward in a year and a bigger one in two years)
+- How do we avoid the pitfalls of impatience?
+    - immediate pleasure should be avoided if it results in longer term pain
+    - and likewise, short term pains that result in longer term pleasures are to be celebrated
+- How do envy and jealousy influence our decision making?
+    - we have a natural tendency to think of our own situation in terms of others, and envy them if they seem to be better off
+    - this is supported by studies that show we report being happier when we think of ourselves as better off in relation to similar others
+    - likewise, we are jealous when we see a perceived threat to a valued relationship, and jealousy is often cited as among the top three motives for murder
+- How do we avoid the pitfalls of envy and jealousy?
+    - the situation of others has no bearing or consequence whatsoever on our situation, so enjoy your life without comparing it to that of another - as long as you achieve your goals, it shouldn't matter what someone else does (as often they have different goals and have better luck)
+    - Aristotle: "The best way to avoid envy is to deserve the success you get."
+- What is the contrast comparison effect?
+    - we judge things not in absolute magnitudes, but in relation to some reference point (especially with things like temperatures)
+    - this means that how we value things depends on what we compare them with
+    - i.e. next to a $1500 suit, a $100 tie seems reasonable
+- Why does the order in which something is presented matters?
+    - because it gives us a reference point so that everything that comes after can be judged in reference to that
+    - salespeople will often present the more expensive items first, then cheaper items that come after that will seem like a good deal
+    - or when we are buying a car and a bunch of options get thrown in - a few hundred dollars seems small compared to the large purchase we're making
+    - studies have shown this effect: people are more likely to go across town to save $10 on an alarm clock, but not on a big screen TV
+- How does this effect explain why we perceive things as more attractive when they are compared to something less attractive?
+    - when the reference point involves the less attractive option, we consider whatever is more attractive to be better, even if we spurned it before
+    - so if something isn't selling well, a company may purposefully make a more expensive, lesser product so that people will think the same product they didn't buy before is a better deal
+    - or there is the example of the experiment with asking people to choose between cash or an elegant pen: when the choice was between cash and an elegant pen, people chose cash, but when the choices were between cash, an elegant pen, and an inelegant pen, people chose the elegant pen
+- How does this effect influence our ability to detect changes over time?
+    - it means we are often blinded to small changes over time because our comparison tendency doesn't perceive these as significant, so we let them slide
+    - weight gain is a perfect example - eating one bad meal doesn't seem to make a difference, but eating lots of bad meals over time results in poor health, and we don't notice ourselves getting fatter and fatter by the day
+    - perhaps paradoxically, "our ability to detect and react to changes in a stimulus decreases as its magnitude increases", which means that for us to notice a change in a big stimulus, that stimulus must be changed pretty significantly (like noticing our weight has significantly increased)
+- How do we mitigate against the effects of the contrast comparison phenomenon?
+    - simple - evaluate things and objects by themselves, and not by their contrast!
+- What is the anchoring effect?
+    - an extension of the comparison contrast - it says we are influence by information first presented about something and we latch on to it as an anchor
+    - so if we bought a house for $140,000 and we can only sell it for $100,000, we perceive that we got a bad deal and paid too much for the house (and likewise for a buyer - if they know the house sold for $140,000 and they get it for $100,000, they perceive they are getting a good deal)
+    - but all this is moot if the true value of the house isn't either one - the true value may only be $80,000, in which the buyer isn't getting such a great deal
+    - this is supported by studies in how criminals are sentenced to prison - the data show that the eventual sentence is strongly influenced by the initial prosecutor's demands because the defense bases its sentencing recommendation in reference to the prosecutor's recommendation, which often comes first and acts as an anchor
+    - this effect is also seen in car sales - the salesmen will show buyers a high price first then bring them down to a lower price to make them think they got a good deal, even though they didn't
+- How do we mitigate against the effects of anchoring?
+    - consider choices from a 0 base level, not from some other arbitrary measure
+    - remember what you want to achieve - so if your goal in buying a house was to spend no more than $80,000, then remember that instead of springing for the $100,000 house even if you think you're getting a good deal
+    - adjust information to reality - look at the total picture as things stand right now, not by some anchor determined by the past or someone else with completely different interests
+- What is the vividness and recency effect?
+    - it says that we are more heavily influenced by information that is presented vividly and/or that we can easily recall
+    - this is why we are more influenced by stories than to logic or fact - we can relate to stories much better and can imagine them much more vividly than dry facts
+    - this is supported by studies that jurors are more influenced by vivid testimony than by simple fact
+- How does this effect explain why we often overreact to certain events?
+    - if the information presented to us is emotional, we pay much greater attention to it while ignoring its magnitude
+    - so one particularly gruesome murder gets played a lot on the national news while thousands are dying each day, and we are more likely to pay attention to the one death than to the thousands even though thousands dying is much much worse
+    - drama and danger sells - sensationalist headlines are the media's business, regardless of the probability a certain event will occur (such as shark attacks or terrorist incidents)
+    - this leads us to perceive a problem as being bigger than it really is - when in reality we just see it more because the media has covered it more
+- How does recency cause us to make bad decisions?
+    - we give much more weight to what happened recently than the actual long term track record of something - say the performance of an employee or stock
+    - we also make predictions based on recent trends and conditions - i.e. housing prices tank and we think that creates great investment opportunities even though we're not even sure prices will go back up, but we are basing this on a reality that recently existed where prices were sky high
+    - correlated to this is after a bad event happens, we drastically overestimate the likelihood of it happening again
+- How do we mitigate against the effects of the vividness and recency effects?
+    - recognize the nature of the media - it has its own motivations and biases
+    - instead, consider what is relevant and what the normal outcome would be in similar situations
+    - go for facts and numbers instead of dramatic information - if you are presented vivid stories, always demand to see them backed up by facts
+    - separate noise and chance events from what is important
+    - be skeptical of trends, as they may be wrong - always ask if the effect is permanent or temporary
+- What is the effect of omission and abstract blindness?
+    - it means we are more influenced by what is immediate, concrete, and in front of us than anything abstract
+    - likewise, we tend to focus on present information rather than what information may potentially be missing
+    - ex: we see a lottery winner instead of the 14 million losers, so we think we have a shot at winning the lottery
+    - and we often see when big risks pay off, rather than seeing the myriad other risks that didn't pay off
+    - or, we don't often consider the alternatives of spending money
+- How does this effect explain how we can make seemingly contradictory choices based on the nature of the information presented?
+    - because we are influenced by what is immediate and concrete, and we don't often consider information that isn't presented, we are influenced by options that have a more striking nature
+    - ex: studies show that when deciding which parent should receive sole custody of a child, the jury focuses on information that seems to make one parent better than the other, but when deciding which parent should be denied custody, the jury focuses on information that seems to make one parent inferior than the other
+    - so depending on how the question is framed, someone could both accept and reject a choice if that choice has both positive and negative features that are particularly striking
+- And how does this explain how we often miss crucial information that is seemingly right before our eyes?
+    - we focus our attention on what is immediate, to the exclusion of everything else (think talking on the phone while driving), so even urgent, prominent information can get missed
+- How do we mitigate against the effects of omission and abstract blindness?
+    - always look for alternative explanations - don't accept the information you're given at face value
+    - consider the missing information - is there some crucial information that isn't there?
+    - compare both positive and negative characteristics
+- What is the reciprocation effect?
+    - it says that we tend to repay to others what they have done for us - whether it is good or bad
+    - it is natural for us to want to do something for someone who does something for us
+    - ex: one researcher sent out Christmas cards to total strangers, and dozens of people sent back cards even though they had never met each other before
+    - companies take advantage of this with free trials and samples - when we use these things, we want to reciprocate by buying the product
+    - likewise, we respond the same way we are treated - in Berkshire Hathaway, they let managers feel they are running their own show, so they reciprocate in kind and do the best job they can
+    - this also works the other way - if people are unfair to us, we often punish them even if it costs us (retaliation against a cheating spouse, nasty divorces, etc…)
+    - this is also present in negotiations - a seller will often ask a higher price then make a concession when the buyer balks, then the buyer feels he must live up to the deal and reciprocate
+- How do we mitigate against the reciprocation effect?
+    - realize that people don't want to feel indebted - allow people to give back what we've given them
+    - a favor or gift is most effective when it is personal, significant, and unexpected
+    - think about what you want to achieve before you make concessions
+    - empathy - if we can see from someone else's perspective as well as our own, we will understand their motivations better
+    - practice what you preach - don't do to others what you wouldn't want done to yourself… or, give people what you want in return from them
+    - and also, setting an example is more powerful than making a law because it makes people feel shame
+- What is the liking and social acceptance effect?
+    - it is our natural tendency to want to be liked and accepted
+    - therefore, we believe, trust, and agree with people we know and like (and do things for them)
+    - and if we feel that a person likes us, we tend to like them back
+    - we tend to like family, romantic partners, and people who are similar to us in background, opinion, lifestyle, interest, attitude, looks, values, and belief
+    - we also tend to like people who are physically attractive, popular, cooperative, or people we have positive associations with
+    - we also like and trust anything familiar
+- What are some of the common psychological pitfalls associated with this effect?
+    - flattery - we like people who complement us and make us feel special (whether it is true or not
+    - the company we keep - people believe we have the same personality of those we associate with, and if we associate with those who are credible, we appear as credible (and credibility leads to trust)
+    - cooperation - we like people who cooperate with us, and we get them to cooperate with us by creating an external common threat or an opportunity for mutual gain
+    - reciprocation - we reciprocate the way others see us, so if we perceive that someone dislikes us, we tend to dislike them
+    - asking a favor - if we ask someone a favor, they are more likely to like us because they want to seem consistent
+    - keeping up appearances - because we want to be socially accepted, we have a strong desire for conformity, which means we adapt our actions to NOT stand out
+    - dissimilarity - we don't like people whom we perceive to be dissimilar to us or who exhibit qualities we see as undesirable, so we make it easy to dislike them by emphasizing these dissimilarities
+- How do we mitigate against the liking and social acceptance effect?
+    - concentrate on what you want to achieve and the issue at hand, not the acceptance of others
+    - don't depend on the encouragement or criticism of others (indeed, don't worry about it at all)
+    - don't mistake people's appearance for reality - appearances can be deceiving
+    - social approval is a very effective way to modify behavior - if a certain action leads to social punishment, people are likely to avoid that action
+    - love your enemy's opinion of you, for it often comes closer to the truth than our own
+- What is the social proof effect?
+    - the "everybody else is doing it" effect where our actions are influenced by what we see other people doing and believing
+    - we assume that because everyone wants something or does something, there has to be a reason, and as a result, we want and do the same (and vice versa - we avoid what others avoid)
+    - we often imitate others without thinking, especially when a lot or similar people do it, and when we are uncertain, in an unfamiliar environment, in a crowd, if we lack knowledge, if we suffer from stress or low self esteem
+    - Warren Buffett: "what the wise do in the beginning, fools do in the end"
+- What are some of the common psychological pitfalls associated with this effect?
+    - when we are uncertain, we are most likely to follow what people similar to us do so we can influence people to our side if our message is delivered by someone the audience relates to and is similar to
+    - we feel more comfortable as part of a majority because it is protection from criticism - we'd rather fail in a group than succeed unconventionally
+    - blindly following the lead of others - i.e. investing in a Ponzi scheme, believing you can actually reap significant gains just because someone said you could
+    - pluralistic ignorance and diffusion of responsibility - we have a tendency not to act in situations where we don't feel responsibility and others don't believe is an emergency (the more people, the more reduced we see our own responsibility)
+    - group pressure - if we think we are the only ones who don't agree with or understand something in a group setting, we are more likely to keep quiet because speaking up may lead to embarrassment
+    - group think - we are easily seduced in a group setting because we want to be accepted
+    - similarly, we are even more apt to imitation, obedience to authority, and the fear of being different because groups don't encourage differences of opinion, they encourage loyalty (see mass suicide of cults like Jim Jones)
+- How do we mitigate against the social proof effect?
+    - realize that what is popular is not always right - it is easy to follow the masses, but if you don't like what other people are doing, don't do it
+    - think for yourself and always ask: does this make sense?
+    - with children - much of their personality traits and habits are learned from their friends based on what is acceptable or not, so the peer group that surrounds them is vitally important
+    - when part of a group - seek out alternative viewpoints and encourage people to openly disagree. appoint someone to question things and point out risks, use ballots to reduce the risk of social pressure
+    - make individuals responsible for their actions - reduce the so called diffusion of responsibility where if we are all accountable, no one is accountable
+- How does the perception of someone in authority influence our thinking?
+    - we tend to obey an authority, especially when we are uncertain, supervised, or when people around us are doing the same
+    - we are most easily influenced by credible authorities, those we see as both knowledgeable and trustworthy
+    - names and reputation influence us, as do symbols of power or status - this is why advertisers use famous people to endorse products (even though being famous doesn't give them any special ability to recommend a given product)
+    - and when someone is considered an expert in something, we tend to believe what they say, especially when we don't understand it
+    - believing or following someone in authority leads us to rationalize dumb actions - the "I was only following orders" syndrome
+    - and when we believe someone in authority we are much less likely to question their actions or advice, even if we think the action to be wrong
+- How do we mitigate the psychological effects of authority?
+    - look at something based on the underlying facts, not some authority's opinion shrouded in his/her personal qualities or social status
+    - separate between real and false experts - if someone calls themselves an "expert", they probably aren't
+    - recognize that an authority may have an interest in persuading you to believe something
+    - authorities often mention weaknesses before strengths and provide information that seems contrary to their interests in order to increase their trustworthiness - watch out for this (especially in salesmen and negotiators)
+- What is sense making?
+    - it is our tendency to want to make sense out of everything, so we naturally seek explanations for why things happen
+    - this tendency comes from our fear of uncertainty, of the unknown
+    - the idea is that by finding patterns and causal relationships, we will be better prepared in the future
+    - this effect is especially strong when things happen that are novel, puzzling, or frightening
+- How does the tendency towards sense making often cause us to wrongly assess past events?
+    - because in our desire to make sense of things, we will often construct a plausible explanation that fits the outcome rather than actually knowing what happened with past events
+    - this is made worse by the fact that we like to think of past events in terms of the present context
+    - and because we know the outcome of something we often fail to see the other events (and, often, chance happenings) that contributed to the outcome that were probably not in our control
+    - a good example is relying on case-based stories: salesmen will selectively choose case-based stories to illustrate a product that sheds a very favorable light on the product
+    - and at the same time we like to think of past events in terms of the present context, we have a tendency for romanticizing past achievements that obscure the true nature of what took place
+- How does sense making influence how we view things in hindsight, and how we make predictions about the future?
+    - in hindsight, everything looks obvious to us
+    - but we don't know (or can't possibly remember) the uncertainties, conditions, or situational factors that faced us in the past
+    - likewise, we don't know the context of the future, so it is impossible to actually predict what will happen
+    - but this doesn't stop us from paying attention to the fortune-tellers: we like it when people predict the future because it makes us feel more certain about things
+- How does sense making lead to an almost willful ignorance of the role of chance in how events play out?
+    - we want to see a pattern in everything, find a reason for everything, so we construct patterns for things even if they aren't there
+    - good example are tests we use to evaluate people, such as the Rorschach test, which actually has no predictive value but is still used today
+    - the result is that we vastly underestimate the role that chance has in events, and how little we can actually control them
+- How do we mitigate against the effects of sense making?
+    - think about general reasons rather than ones specific to an event, which includes looking for alternate explanations
+    - consider how other possible outcomes might have happened and don't underestimate chance
+    - everything seems obvious in hindsight, but if we look forward, there are many possible outcomes

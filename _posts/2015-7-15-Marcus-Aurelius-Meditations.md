@@ -1,0 +1,591 @@
+---
+layout: post
+title: Marcus Aurelius' Meditations - Book Notes
+permalink: /aurelius-meditations
+tags:
+- books
+- philosophy
+excerpt: This book is probably the most well-known manual of Stoic philosophy out there. It is chock full of practical advice and Stoic wisdom on how we should live, and it remains remarkably relevant and prescient today. There isn't much to say about this book that hasn't already been said, so if you're at all curious about life's big questions, it is well worth the read.
+---
+### Book I
+
+This section is all about Marcus remembering the people who taught him various things, in what seems to be a display of thanks and remembrance. Instead of capturing these with a question and answer style, I'll simply list them, according to how Marcus groups them. It is worth noting in this section that Marcus didn't believe himself to possess these virtues, but rather that he simply observed them.
+
+- good morals and the government of one's temper
+- modesty and a 'manly' character
+- simplicity in a way of living, and abstinence from evil deeds and thoughts
+- spend liberally on education, and get the best you can afford
+- don't be a partisan, know what manual labor feels like, don't meddle in others' affairs, don't listen to slander, know how to work with your own hands
+- don't worry about 'trifling' things, celebrate freedom of speech, study philosophy
+- everyone needs improvement and discipline, don't emulate sophists, don't make a display of virtuous traits, forgive and reconcile with those who have harmed you, don't be satisfied with a superficial understanding of a book
+- celebrate freedom of will, and be steady in your purpose, look to reason first
+- live in accordance with nature, look carefully after the interests of friends, tolerate ignorant persons
+- refrain from fault-finding, but rather correct people gently by inquiring about the fault itself
+- everyone has leisure, so don't ignore family or other relations with the excuse of being too occupied
+- love your family, truth, and justice, and know the possibility of a government that respects basic freedoms, and be honest in your personal relationships
+- be cheerful in all circumstances, learn to govern yourself and not be led aside, don't complain about something you have to do
+- be mild in temper, be resolute in things you must do after carefully considering them, don't consider yourself more than any other citizen, be satisfied on all occasions, be wary of flattery, enjoy things when you have them, but don't want them when they are gone
+
+### Book II
+
+- Why should we wake up and resign ourselves with meeting the worst kind of people? (interfering, ungracious, insolent, etc…)
+    - because 'the nature of the wrongdoer is of one kin with mine'
+    - human beings were made to work with one another like the feet and hands work with one another - to work against each other would be contrary to nature
+    - furthermore, because I have contemplated the essential beauty of good and essential ugliness of evil, I know that the wrongdoer is simply ignorant of such things, and I cannot hate him
+- What are the three parts of the soul, and how do they work together?
+    - flesh - the 'perceptive' part of the soul that man shares with animals, but that plants don't possess
+    - breath of life - that unique property of being alive that man shares with all other living things, including plants
+    - directing mind - reason which is uniquely human, and not shared with any other living thing
+    - you should despise the flesh - it is just 'a network woven of nerves, veins and arteries'
+    - the directing mind (reason) should be what you pay attention to - don't let it be enslaved by selfish desire, or worries about your past, current, and future lot, but rather use it to fulfill your unique place in the world
+- What is the nature of chance? of 'necessity'? Why should we care?
+    - Marcus believes that there is no such thing as chance - everything is according to nature, and so things which may seem like chance are really just the results of nature's natural processes
+    - necessity is a little trickier - it refers to what we might call the laws of matter, and anything operating according to the laws of matter is good for the 'whole ordered universe'
+    - anything done according to the laws of nature is good for the whole, and anything good for the whole is good for every part
+    - which means that our individual actions should be done according to the laws of nature
+- How does the individual fit into this ordered universe?
+    - providence (nature, God, the gods, whatever) gives each person the ability to do their unique part within the ordered universe, but not every man uses this ability
+    - we have a very limited time with which to figure this out and do our part, and if we don't, we lose a significant opportunity given to us, and ultimately work against the laws of nature
+    - it is this unique part we must act towards with all actions, anything else is just wandering and a waste of life
+- According to Marcus, how can we act so that we fulfill this unique part?
+    - first, free yourself from any preoccupations that don't allow you to focus on doing your part
+    - you do this by performing each action as if it were the last of your life, ridding yourself of aimless thoughts, and ridding yourself of all emotional opposition to the dictates of reason, to selfishness, and displeasure with your lot
+    - there are actually very few things that block us from acting in accordance with nature, and if you do the above, you will see how easy it is, and how little God requires from you
+    - furthermore, many people don't allow themselves this 'happiness' (what comes when acting in accordance with nature) because they respect themselves less than they respect others, and they worry about others' souls more than they worry about their own
+    - don't let external circumstances distract you - seek good knowledge, everything else is just aimless wandering
+- When in doubt, what is the one thought to bring us back to living in accordance with nature?
+    - contemplate: what is the essential nature of the universe, and what is my own essential nature?
+    - how does my own nature contribute to the essential nature of the universe, even if I'm minuscule in comparison?
+    - always remember that no one can prevent your deeds or your words
+- But why would God allow man to fall into evil or not live in accordance with nature?
+    - because man does have free will, and it is considered the ultimate exercise of free will to live with nature, rather than against it
+    - because God loves us and concerns himself with human affairs, He has given us the ability to not fall into evil, and live in accordance with nature (and be happy)
+    - God doesn't involve you in evil (but we can't say the same about men)
+- So then why do bad things seem to happen to good people and bad people alike (and vice versa)?
+    - there is no such thing as good or evil, everything happens for a good reason determined by God in order to keep the universe ordered
+    - so to dwell on such things is ridiculous and childish, for it is all a function of nature (God)
+    - because at the end of the day, everything we fear and all the traditional trappings we seek matter none at all - it will all be gone eventually, and to act because of this means we are governed by outside forces and not living in accordance with God
+- How is it that the shortest life and the longest life will still end up being the same?
+    - because the present is equal for all - everyone loses time equally, it doesn't matter how much time you've passed or how much you still have to come, for you don't possess either
+    - when a man who has lived a short life dies, he still loses the same thing as the man who lived a long life dies - they both only lose the present moment
+    - furthermore, things don't change - everything works as it has from the beginning and as it will to eternity, it matters not if a person sees this for 1 year or 100
+- What are the most egregious ways a person can violate reason and live against God (or nature)?
+    - first, and most importantly, when someone willingly rebels against anything that happens to them - to do so is to rebel against God, from which all things are ordained
+    - second, whenever someone tries to do another person harm
+    - third, whenever a person is overcome by pleasure or pain and doesn't turn back to reason
+    - fourth, whenever a person does or says anything falsely or hypocritically
+    - fifth, whenever a person acts at random, and without acting towards a purpose or goal, for even the most trifling actions should be directed toward an end
+- Then what is human life, and how can we live it?
+    - "in human life time is but a point, reality a flux, perception indistinct, the composition of the body subject to easy corruption, the soul a spinning top, fortune hard to make out, fame confused. To put it briefly: physical things are but a flowing stream, things of the soul dreams and vanity; life is but a struggle and the visit to a strange land, posthumous fame but a forgetting"
+    - only philosophy can help us live correctly
+    - philosophy involves protecting our inner spirit at all costs and making it stronger than pleasure or pain
+    - we must never act aimlessly, or question things that happen to us, and "awaiting death with contented mind as being only the release of the elements of which every creature is composed"
+    - living this way is according to nature, and nothing evil is in accord with nature
+
+### Book III
+
+- Why must we "hasten on"?
+    - not only is our life being spent day by day, with a smaller portion remaining with each passing day, but we don't know for how long our mind will remain sharp enough for 'trained thought'
+    - we need our full mind to understand events and our place in the ordered universe, and to be truly happy
+    - so we actually have less time than we think, because even if a man lives long, he won't have full control of his capacities for his entire life
+- Why should natural phenomena, even seemingly ugly phenomena, be considered beautiful?
+    - because it has all been ordained by God (nature), and everything in nature is good
+    - the enlightened man will realize this and look upon even ugly natural occurrences with a mind toward finding the beautiful
+- Death is inevitable, even for history's most revered figures. Why should we not fear it?
+    - Marcus describes life with the metaphor of a ship: you embarked, you sailed, you come to harbor, and you disembark
+    - since God is the maker of all things and everything turns according to Him, this includes the realm of death, and we know that we shouldn't fear (indeed, we should be thankful for) all those natural things operating according to God's laws
+    - in many ways, death is a better existence because you exist with Mind and Spirit without the burdens of a physical body and the limits of the earth
+- Why shouldn't we concern ourselves with the opinions and actions of others?
+    - these are ultimately distractions, and are counterproductive to following our own directing reason
+    - we should only think thoughts that would enable us to honestly answer any question about what we are thinking (i.e. we wouldn't gladly tell someone about a jealousy, suspicion, or slander, so that is the test to make sure we aren't wasting our team with the doings of others)
+    - the benefit to this is that you become ultimately happy and at peace with the world, "uncorrupted by pleasure, unwounded by pain, untouched by violence, immune to evil and a contender for the greatest prize"
+- When is the only situation we should concern ourselves with others, and why?
+    - only when the common good makes it imperative
+    - God endows each man a certain fate and faculties that only he can use
+    - only by using reason toward that certain fate is man living in accordance with God
+    - concerning ourselves with others not living in accordance with God is harmful, but concerning ourselves with others living in accordance with God is good
+- What does the self-sufficient man look like?
+    - his acts aren't unwilling, selfish, uncritical, or in the grip of conflicting passions
+    - he isn't affected by flattery, nor is he a man of too many words or a man who meddles in other peoples' affairs
+    - he protects his inner spirit like a statesman of mature years who rules at ease as if he were awaiting the call to retreat from life, and one who needs no flattery or advice of men
+    - he is always of good cheer, requiring nothing external that can only be had from other men
+    - in a word, "one should be right, not be set right"
+- But what if you find something better than these Stoic principles Marcus sets forth?
+    - he says to enjoy it!
+    - but if not, you should take all of these principles to heart and turn your full attention towards them, for otherwise 'you will no longer be able without distraction to give the place of honor to that good which is peculiarly your own'
+    - but Marcus doesn't think there is anything else good but living in accordance with God and the common good, and using reason to live so
+    - for anything else is only to your advantage as an animal creature, not as a reasonable being
+    - and if you don't act as a reasonable being, but as an animal, you aren't fulfilling your unique human purpose
+- How do we know what is beneficial to ourselves, and what is not?
+    - anything which causes you to 'break faith', 'abandon self-respect', 'hate, suspect, or curse anyone', 'dissemble', or 'long for anything which requires the privacy of walls and curtains' is not beneficial, and should be avoided
+    - for the man who truly embraces his higher self doesn't indulge in dramatics and needs nothing, and if his death comes he does it as easily as any other action
+    - the only concern of the enlightened man is that he doesn't 'adopt a way of life alien to a thinking and social being'
+- What does the mind of the enlightened man look like, and how does he consider his faculty of thought?
+    - his mind is clean of impure thoughts - those 'abscessed, festering, or suppurating', and those 'servile or boastful, compulsive or arbitrary'
+    - he reveres his faculty of thought, and orders it such that no thoughts are at odds with nature or his status as a reasonable being
+    - for he realizes that it is this faculty of thought which allows him to live a good life
+- To Marcus, what are the essential truths we must realize in order to live a good life?
+    - firstly, 'that each man lives only this present moment; as for the rest, either it has been lived in the past or it is but an uncertain future. Small is the moment which each man lives, small too the corner of the earth which he inhabits; even the greatest posthumous fame is small, and it too depends upon a succession of short-lived men who will die very soon, who do not know even themselves, let alone one who died long ago.'
+    - then, for everything we perceive and come in contact with, we must be able to know its essential nature
+    - we can know an object's essential nature by understanding its usefulness in the larger ordered universe, as well as its usefulness in relation to us
+    - this is also true of people, even those who don't know themselves and aren't acting in accordance with nature
+    - for those people, we must realize that they are also from God, and act toward them 'in accordance with the law of our common nature'
+- Realizing all this, how can we live the good life?
+    - focus on the task before you and follow your reason 'steadfastly, vigorously, with kindness'
+    - allow no distraction and fortify the spirit within you according to God
+    - expect nothing and shirk nothing
+    - perform any natural action at hand, being truthful in every word you utter
+    - do all this and you will live the good life, and there will be no one who could prevent you
+- What else characterizes someone living the good life?
+    - he carries these doctrines like a doctor carries his tools - he keeps them ready to understand things and uses them to perform every action, understanding that nothing can be done well without reference to the divine
+    - he doesn't vaguely wander, he hastens to the end while discarding vain hopes
+    - he loves and welcomes whatever happens to him, whatever his fate may bring
+    - he doesn't 'pollute the spirit established within his breast' with a mass of impressions and imaginings, he just follows the divine, saying nothing which isn't true, doing nothing which isn't just
+    - he lives a simple, self-respecting, and cheerful life, feeling no resentment against anyone, just walking on his own path toward death calmly and ready for release
+
+### Book IV
+
+- What should we do if circumstances prevent us from acting in accordance with Reason?
+    - the enlightened man doesn't let his circumstances affect his attitude or his inner spirit, rather, it is the opposite: he makes the circumstances conform to his ultimate aim
+    - so you should always start towards an action (rather than let the environment dictate your action), and convert any obstacles in your way to things that will help you accomplish that action
+- Why should we never have to retreat from the world, like in a vacation or country home?
+    - because "nowhere can a man withdraw to a more untroubled quietude than his own soul"
+    - the enlightened man can always put himself at ease by contemplating those essential doctrines that he lives by
+    - if 'things of the body' affect you, just remember that the 'freed mind is no longer involved in the movements of animal life'
+    - if fame affects you, just remember how small a part you play in the course of the universe and of time - any man, no matter how famous, will eventually be forgotten in the grand scheme of things
+- How can we retreat within ourselves to restore this calm?
+    - first, realize that external matters do not affect the soul, but stand quietly outside it - the only real disturbances come from inside
+    - second, realize that the universe is always changing, and whatever you see right now is already no more. "the universe is change, life is understanding"
+- Why is striving for later fame such a bad waste of our limited time?
+    - because everyone who remembers you now, as you are famous, will very shortly die (as yourself)
+    - so will all the people that come after, who may remember your fame - and so on and so forth, until you aren't remembered at all
+    - but even if those who remember you are immortal, what does it matter to you now, as you live?
+- Why does praise (or scorn) not matter?
+    - because anything being praised and scorned doesn't change with either - it doesn't become worse or better
+    - so anything truly beautiful has no need of praise, praising it won't make it any more beautiful
+- How does the soul live on after death?
+    - just like our bodies are composed of matter already in existence, our souls are just part of the universal Reason
+    - so just like our bodies return the matter from which we are composed, our souls return to the universal Reason from which they were taken
+- What is contentment?
+    - doing what is necessary, as dictated by reason, in as efficient a manner as possible
+    - acting in this way will naturally produce contentment
+    - doing as little as possible is important - for if you focus on that, you won't do any irrelevant actions (and thus waste time)
+- What does it mean to achieve simplicity in ourselves?
+    - all that matters is that we derive benefit from the present circumstances
+    - for anything that happens to us is ordained by God, and it is our fate to face those events and use our reason to face them
+    - life is short, and we can spend time resisting this and lamenting it, but doing so will just shorten our time even further
+    - furthermore, any actions we partake should be given attention in direct proportion to the action's value - i.e. don't dwell on things of lesser importance
+- What are the things which should primarily concern us?
+    - having a just mind - the composition of which is described in the book
+    - actions for the common good, of which we are a part
+    - being honest (for telling lies is not in accordance with God)
+    - and a disposition that welcomes all that happens to us as necessary and comprehensible, because it all flows from God
+- How do we tell if something is bad?
+    - we can't judge this by someone else's opinion, or an event that happens
+    - only we can judge that, and anything that happens to a bad man and a good man equally can be neither
+- What is time?
+    - "…a river of things that become, with a strong current. No sooner is a thing seen than it has been swept away, and something else is being carried past, and still another thing will follow."
+- Are events random?
+    - no, what happens next is always intimately related to what went before
+    - furthermore, things aren't just arbitrarily successive, they are very much interdependent with each other, and are related in amazing ways
+
+### Book V
+
+- Was man born for pleasure?
+    - no! man wasn't born to feel things, he was born to do them
+    - all other manner of life performs its proper task and contributes to the order of the universe, and man is no different
+- So should we shun pleasure altogether?
+    - no, some things that are pleasurable (like eating and drinking are necessary)
+    - but, God has put a limit on those pleasures, just like he has put a limit to rest, and we should only engage in these things as sufficient, and no more (moderation)
+- What should we say to the man that loves pleasure more than anything else?
+    - that he doesn't love himself
+    - because if he did, he would love his own nature and its purpose
+    - the men that love their craft, forsaking all pleasures in order to practice it, are those who live in accordance with God because they are fulfilling their divine purpose
+- If we don't display virtues (indifference to pleasure, contentment, self-sufficiency, etc.) of the enlightened man, what should we do?
+    - none of these are 'talents', it isn't the case that the virtues which help you live the good life are innate, they are obtainable
+    - the first thing is to realize that you have a choice to display these virtues - it is in your own power to live by them
+    - it is natural for a man's mind to have to be trained, and it can be trained unless he is satisfied in his ignorance of these virtues
+- How does the enlightened man perceive gratitude?
+    - he doesn't - it doesn't register for him at all, he does things for the common good almost unconsciously
+    - to want gratitude is to put stock in what others say and do when it isn't beneficial to the common good, which is living against God
+    - with this attitude we may neglect some socially useful action, but that is fine as long as we continue to act in accord with reason
+- Why do bad things happen to people?
+    - events are prescribed to us by God like a doctor prescribes treatment for an illness - so anything that happens is designed by God to be good for the whole of the universe, even if we can't understand it
+- What should we do if we can't act from right principles in every situation?
+    - don't give up in disgust and impatience, but return to your principles as if returning from a fall
+    - be glad that most of your actions are worthy, and love those principles to which you are returning
+    - you will find that returning to reason is a relief, not a burden
+    - philosophy only wants things such as your nature wants, so living in accord with your nature will naturally bring 'delight'
+    - you can do this by constantly asking: to what end am I using my soul? what occupies that part of me which they call the directing mind? Is it that of a child, a youth, a woman, a tyrant, a tame animal, a wild beast?
+- How can we discern the truth of things?
+    - we can't, really, not even through hard core philosophy
+    - every judgment we make is fallible, there is no infallible man
+    - but more importantly, we shouldn't concern ourselves with worldly things at all
+    - "in such darkness and dirt, in such a changing stream of existence, time, movement, and moving things, I do not see what there is to be honored or even to be seriously pursued at all"
+    - instead of worrying about worldly things, we should find refreshment in these two reflections: "nothing will happen to me which is not in accord with the nature of the Whole", and "it is possible for more to do nothing contrary to the God and the spirit within me, for there is no one who can compel me to do so"
+- What happens to our physical body and soul after we are gone?
+    - every part of us will be assigned a place as part of the broader universe
+    - then, because the universe is in a state of constant change, those parts will again change into other parts, and so on and so forth
+- What things 'do not belong to man's portion as a human being', and what should our relationship be with them?
+    - anything that doesn't allow man to follow to his end, which is the good, does not belong to his portion
+    - these things can be distinguished by simply asking whether or not man's nature necessitates these things, and if they don't, then they don't belong
+    - or, could be thought of anything that we don't need
+    - we should reject these things and do without them, for doing so will make us better
+- How do our thoughts affect our minds?
+    - the kind of thoughts we have will shape our minds to the same kind
+    - so if we frequently have sad thoughts, our mind will be predisposed to that kind of thinking - "your mind is dyed by your thoughts"
+    - as such, we should think thoughts like: where it is possible to live, it is possible to live the good life, and that everything is made with a purpose, and that purpose is what ultimately shapes the good for that thing
+    - and, the good of rational beings is in a community - we live for the sake of each other
+- What is the only thing that can 'move the soul', or somehow affect it?
+    - the soul itself is the only thing that affect itself
+    - no external things can touch it at all
+    - the soul interprets external events based on its own judgment
+- What should we do if we encounter obstacles, either in the form of other people or external events, that prevent us from performing our proper duties as human beings?
+    - the enlightened man takes those obstacles and adapts them as another opportunity to practice virtue
+    - just like you should be indifferent to external events that happen, you should be indifferent to any person who stands in your way, because they are all the same in that they are just obstacles
+    - so what initially seems like an obstacle is actually a means to action, and can actually be a help
+    - the only thing that matters is our state of mind - the enlightened man will maintain a steady state of mind that adapts and remains unperturbed, no matter the obstacles or events, and so continues the good life
+- What are the best things in the universe and in ourselves?
+    - Reason - both in the universe and in ourselves
+    - this universal reason is what governs all things, and our individual reason is but a part of that
+    - these are the best things, and deserve our honor and respect
+- Does anything truly last, either in our immediate realm or otherwise?
+    - no, and we should frequently "reflect on the swiftness with which things that are, or come to be, flow past and are carried away, for existence is like a river in perpetual flow; activities change continually; causes vary in innumerable ways; even that which is close to you hardly endures at all"
+    - because of this, it is foolish to be excited or distressed at some event or misfortune as if it were going to last (it won't)
+- How should our 'directing mind' be affected by the 'flesh' (desires, emotions, etc..)?
+    - it must remain separate and not be affected by pain or pleasure from the flesh
+    - but since they both reside in the same body, the directing mind should perceive these feelings, but shouldn't pass any judgment as to whether they are good or bad
+    - so the mind shouldn't allow its judgment to be affected by the body, and so shouldn't be concerned by those bodily feelings
+- What role do 'inferior' things and people play in the world?
+    - Marcus believes that people and things who are obviously inferior serve their purpose for the sake of the 'higher' people and things
+    - this was ordained by God (nature, universal Reason, whatever), and is obvious when we look at different peoples' natural abilities
+    - it isn't clear whether he meant this pejoratively, but I look at it as everyone having their own part to play to make society work (kind of like the Republic) - we need garbage men just like we need CEOs, and society doesn't work if you have one without the other
+- How does Marcus consider 'the things much honored in life'?
+    - he considers them all 'vain, corruptible, and of no import' (not surprisingly)
+    - then he repeats the motif of earthly things being transient and ultimately meaningless in the grand scheme of things
+    - so rather than honor these worldly things, we should 'await death with good grace', 'honor the gods and praise them, to do good to men, bear with them and forbear'
+- How can you make sure your life flows smoothly?
+    - if you act with the right method of living in accord with your rational self
+    - this can be accomplished in two ways (which are also common to the gods)
+    - first, 'not to be hindered by another', or not letting another person prevent you from acting rightly
+    - second, to have the right disposition that fuels the right action - namely, putting a limit on how the human emotions affect you (especially desire)
+- How should we deal with another's grief?
+    - we should help our fellow man as far as we can, but we shouldn't ultimately be consumed by it because grief is ultimately caused by indifferent events
+    - under no circumstances should we consider that he is suffering a real injury, for that is to turn away from the indifferent nature of events
+    - we should simply remain aware that whatever caused his grief is ultimately for the common good, and that things are still just transient, temporary, and ultimately insignificant
+
+### Book VI
+
+- What is the nature of the 'material substance of the Whole'?
+    - it changes easily - is very apt to change
+    - the universal reason governs it, and this universal reason contains no evil nor any motive for doing evil, so it is impossible for the events that happen by it to be considered evil
+- How is death 'one of the actions of life'?
+    - death is simply another action that we perform in life like so many others
+    - all that matters is if we are performing those actions according to our lot and as reason dictates ('fitting actions')
+    - we should be indifferent to all else (such as if we're sleepy or awake, whether you are dying or not, etc…), and focus simply on performing the task at hand as well as we can
+- How can we characterize the ideal 'directing mind'?
+    - the ideal mind makes itself such as it wishes to be - it can spur itself to action and change itself as needed
+    - likewise, all that happens is made by the directing mind to be just like it wishes - i.e. turning obstacles into opportunities
+- Why is the world (and especially human beings) not just a random tangle of atoms (as Epicureans would say)?
+    - Marcus asks: if it were so, "why am I eager to remain in such a haphazard concatenation and confusion?"
+    - if this were the case, we would only care about 'returning to earth'
+    - but as Marcus observes, death will happen regardless of what anyone does, and the unique makeup of atoms that constitutes human life must have some other purpose as dictated by God (governing Reason)
+- How is it that we can get to the real heart of things, and why do we need to do this throughout life?
+    - we can get to the real heart of things by stripping them naked and 'destroying the myth which makes them proud'
+    - when we are enthralled with things we are much more likely to cast aside reason and think that whatever we are preoccupied with is worthwhile
+    - but if we cut through all the vanity with which the thing is shrouded, we can see what it really is (mostly insignificant and indifferent), and return to our reason which will help us ultimately decide what is worthwhile
+    - examples: roasted meat is just the dead body of an animal, wine is just grape juice, sex is just a biological function
+    - there is nothing intrinsically worthwhile about any of these, and looking at them stripped bare allows us to see them as such
+- What things are admired by the truly enlightened man?
+    - things which are 'akin to himself'
+    - so the enlightened man doesn't involve himself with any of the objects of popular admiration, but above all else "preserves his own soul's rational disposition"
+    - even things 'held together by rational soul' like craftsmanship don't interest the enlightened man
+- What is the purpose of man?
+    - it isn't in the things we share with other living things - like breathing, or desires, or eating; because other living things can do all that, those aren't what makes man unique and gives him his purpose
+    - it isn't fame - "for the praise of the multitude is only a clacking of tongues"
+    - man's purpose lies in his inner potential and his recognition of how he was made
+    - everything in the world is made with an eye to its final function, and so it is with human beings
+    - i.e. we all have certain abilities, predispositions, skills, etc… that point to our purpose in life, or to that which we were made
+    - if we can recognize that potential in ourselves, then we can fulfill that unique function and fulfill our purpose
+    - we should value this potential above everything else, otherwise we won't be truly free because we value things that can be taken away
+- When is the only time we would consider something impossible?
+    - the only time when we shouldn't do something is if it were impossible for man to achieve
+    - trying to accomplish something impossible for man is pointless
+    - but rather, if anything is possible for man in general, then you too can achieve it
+- What characterizes the enlightened man?
+    - he treasures simplicity, goodness, purity, dignity, lack of affectation, love of justice, piety, kindliness, graciousness, and strength for his appropriate duties
+    - he realizes that this earthly existence 'produces only one harvest: a godly disposition and social acts'
+    - he is keen for logical action, his temper is even, he isn't vain, he always tries to understand things as they are
+    - he doesn't dismiss a course of action until he has fully examined it and clearly grasps it
+    - he doesn't listen to slander, and he endures those who act unjustly towards him without suspicion or malice
+    - he is satisfied with little material possessions, and he loves work
+    - he tolerates and even celebrates opposition to his ideas, and he is always open to a better way
+- What are incidental things, and how are they a part of the universal Whole?
+    - these are things incidental to the way of things determined by God
+    - usually what we consider to be evil deeds are actually incidental from things noble and lovely, and so have a reason
+    - so when these incidental things happen to us, we may not understand how or why they contribute to the common good, but they do
+    - so even if these incidental things seem to harm me, I should welcome them, for God has no purpose in harming me directly, but anything that happens is for the best, even if it is incidental
+    - for if God didn't plan earthly events for a reason, then there is no God at all!
+
+### Book VII
+
+- What is wickedness?
+    - it is nothing but something that recurs, only in different forms - we see it again and again throughout time
+    - I think Marcus' point here is that everything is familiar - we shouldn't be surprised or astounded by something we consider wicked, because it has happened before, and because of this it is completely in our power to understand it for ourselves, without any other help
+- How do the images in our minds influence our actions?
+    - Marcus believed that we constantly have many different images in our mind - some good, some bad
+    - those images ultimately determined how we act - if we have images which include passions and desires, then our actions will ultimately lead us to indulge those
+    - but if the directing mind controls those images, we can constantly keep the right principles and doctrines alive in our minds, and act rightly according to those
+- When is the only time we should give up on a task and hand it to another?
+    - when the task isn't our duty
+    - otherwise, we should finish the task, even if we think we can't do it or we aren't qualified to do it
+    - in Marcus' case, that probably manifested itself in being the emperor and having to do many things which he didn't feel qualified to do, but that he couldn't pass off to anyone else
+- Should we accept help from others?
+    - yes, and we shouldn't feel bad about doing so!
+    - all that matters is that we carry out our duty - if you can't do it yourself, you should get someone to help you
+- Is it possible for the directing mind to succumb to any of the lesser desires?
+    - no, for by definition the directing mind is independent from any such bodily concerns (aka the animal soul)
+    - things like fear and pain are limited to the body (animal soul), and the directing mind can only be affected by those things if it actively allows it
+    - essentially, the directing mind is in complete control of itself, and is only disturbed (in whatever way) if it lets itself be disturbed
+- Why should man not fear change?
+    - for if we look, change is simply the way of things, and nothing can happen without change
+    - Marcus lists a lot of examples: can heat be generated without the wood burning and undergoing change? can we prepare and eat food without the food changing?
+    - just like all these examples, for man to be changed is necessary for the functioning of the whole, and so we should welcome it
+- How is it human to love even those who falter?
+    - because we recognize that all humans are akin, and we're in this together - it is against nature to do anything against a fellow man, even if he seemingly does me wrong
+    - but when we look at it, no one can make my directing mind worse - only I can do that, so whatever he has done, it hasn't actually injured me at all
+    - furthermore, no one does bad things to people willingly because all 'bad' things done by others are done out of ignorance, so they really can't help it
+- If we catch ourselves daydreaming about things we don't currently have, what should we do instead?
+    - instead, think about the things that are yours, and how fortunate you are to have them
+    - and also think about how you would miss them if you didn't have them
+    - but we also have to be careful not to overestimate them - for they are, by nature, transitory things, and we shouldn't get upset if we somehow lose them
+- Why should we always try to live in the present?
+    - imaginings of future times are just the "puppet-strings of passion"
+    - we should think of our last hour, for it may be upon us sooner than we realize
+    - likewise, we shouldn't carry wrongs forward or hold grudges -- life is too short
+- Why is the length of life irrelevant?
+    - everyone is allotted a certain fate, a certain duty, and the ultimate goal of life is to fulfill that duty
+    - therefore, we shouldn't love life itself, but we should respect our duty and fulfill it, no matter how long we live
+    - no one can escape his or her fate, so we should live the best we can in the time given to us
+- How can we see the future?
+    - Marcus says that what lies in the future is the same as what happened in the past
+    - he says "One can also foresee the future, for it will be altogether similar and cannot deviate from the rhythm of the present."
+    - in other words, the same things recur over and over again, no matter what time period you examine - it is all the same
+- What are the three principles dictated by the 'make-up' of the human species?
+    - our make-up, or how we are built, determines our ultimate purpose, or our duty we have to fulfill
+    - this make-up is constituted for our rational parts - we share other characteristics with animals, but it is our rational part which makes us human, and thus is what we should follow in order to fulfill our uniquely human purpose
+    - the first principle is social obligation - we were made to love our fellow man and work with him, and in this way every person exists for the sake of another
+    - the second principle is resistance to the persuasions of the flesh - the composition of the rational part of our being sets itself apart from these passions and desires, and we should keep it that way, and indeed the rational part uses the 'persuasions of the flesh', and so is naturally preeminent
+    - the third principle is to be free from haste and deceit
+- What should we do if we undertake a 'contingency' for which the outcome isn't known?
+    - look to those who did the same thing
+    - if they were foiled by this event, why should you act in the same way they did?
+    - instead, you should use your own judgment to figure out how you can make good use of this contingency
+    - and always remember two things: your actions are significant, but the circumstances in which they take place have no significance
+- What analogy does Marcus draw to living?
+    - he says "The art of living is more like wrestling than dancing, insofar as one should stand ready for and not be thrown by, whatever happens unexpectedly"
+- How should we handle pain?
+    - pain is a bodily occurrence, and so can't affect our directing mind
+    - there is no shame in suffering pain, and it is neither unendurable nor everlasting - it is a limited thing, and we will always get past it
+- What is sufficient to live in happiness?
+    - very few things, we just need to recognize our God given duty and try to fulfill it by using reason
+    - it makes no sense to despair that we aren't something else (like everyone wants to be an actor, or a rock star, or famous)
+    - following our reason and fulfilling our duty makes us godlike, even if we aren't recognized by anyone else as such
+- How should we treat circumstance in living life?
+    - Marcus says to "Live your life free from compulsion in utmost gladness of heart, even if all men shout against you whatever they ill, even if wild beasts tear limb from limb this dough like matter which has grown around you."
+    - when presented with a circumstance, we should use our own judgment to say "this is how things are, even though popular opinion may not think so"
+    - and furthermore, with the contingencies that come with circumstance, we should view them as opportunities, or as Marcus says, "I always consider the present to be the raw material for rational and social virtue, and, in general terms, for the art of man or God."
+    - "Indeed a man or God can make whatever happens his own; it is neither new to him nor hard to deal with, but familiar and easy to work on."
+
+### Book VIII
+
+- Where is the good life to be found?
+    - "In doing what the nature of man requires"
+    - we haven't found the good life anywhere else - most live in a state of confusion, far from realizing the true nature of things, worrying about some future reputation
+    - we've wandered about looking for the good life in many places - wealth, pleasures, reputation, etc… and we know from experience that it isn't to be found in any of those
+    - so we must live according to our nature "by holding fast to doctrines that direct one's desires and actions"
+    - these doctrines are "those concerning good and evil: that nothing is good for a man which does not make him just, temperate, brave, and free; nothing evil which does not make him the opposite of these"
+- Is pleasure either good or useful?
+    - no, because no man repents having neglected pleasure
+    - Marcus says that to repent is to "reproach oneself for having neglected to do something useful"
+    - because what is good must be useful, that means a good man repents not having done something good
+    - and because no man repents having neglected pleasure, that means pleasure is neither good or useful
+- How can we ensure our greatest safety from pain?
+    - pass no judgment about what seems to hurt you
+    - in this sense, "you" is considered to be your reason
+    - and as we know, our reason (or directing mind, etc.) can't be hurt by anything but itself
+- What hindrance is an evil for the human nature?
+    - Marcus illustrates the true hindrances for different beings - a hindrance to sense perception is evil for the animal nature (because that is the animal's defining characteristic), plants also have hindrances which don't let them express their defining characteristic
+    - it follows that a hindrance to using our rational part would be an evil to human nature
+    - but we are lucky in that if we have made our rational parts "a rounded sphere in solitude", then we can't be hindered from using our directing mind because no external events can do it
+- What should we do if we are distressed by something outside ourselves?
+    - first, we must realize that it isn't this thing which troubles us, but rather what we think about this thing
+    - if we realize this, we realize that we have the power to obliterate this distress
+- What does a 'ruling spirit withdrawn into itself' give us?
+    - Marcus says that if "your ruling spirit is invincible when it is withdrawn into itself and satisfied with itself, not doing what it does not wish to do"
+    - furthermore, "a mind free from passions is a citadel, and man has no more secure refuge to make him safe for the future"
+    - I interpret this last line as the ultimate benefit of a directing mind truly free from passions and in control of itself: no longer would we worry about the future or remain obsessed with staying safe in the future, we would attain something much more profound: joy in the present and acceptance (even appreciation) of external events we cannot control
+    - this is true freedom - freedom from worry, pain, the freedom to use our minds to their fullest, and do only what our minds tell us to do
+- How do we effectively diminish (or ignore completely) our sense perceptions so that we can use reason?
+    - first and foremost, don't add to those perceptions!
+    - disconnect yourself from them and assess the situation with reason
+    - always realize that your perceptions are limited, and adding to them with your mind only magnifies those limitations
+    - again, nothing can affect our directing minds unless we let it
+- Why is it pointless to question why certain things exist in the world?
+    - because the nature of the whole is such that there is 'nothing outside itself'
+    - in other words, everything that happens, and everything that seems to us to be pointless or useless has a purpose and is used by God (nature, the Whole) in some way
+    - there is nothing outside of this world that God needs to constantly create new things within the limits of the world that He created
+- Describe the spring analogy Marcus uses to illustrate the man who has truly mastered his mind.
+    - he says that a spring remains pure and clean even if a man curses it or throws mud in it, or tries any other way to cause it to stop fulfilling its function
+    - this is an ideal that we should strive to attain - to be an eternally fresh spring (or, keep our minds like the spring) even if someone tries to curse or sully the spring (aka obstacles and external events), instead of being like a well that remains stagnant
+    - we can do this "By watching yourself at all seasons with a view to attaining freedom, together with kindliness, simplicity, and self-respect."
+- What happens to the man who does not know that there is an orderly universe?
+    - he doesn't know where he is, or what his own nature is (much less the nature of the universe)
+    - or, he simply doesn't know for what purpose he was born
+    - he commonly pursues the approval of others who are in similar situations, and what kind of life is that?
+- How does sunlight embody the way we should use our thoughts?
+    - sunlight is just an extension of the sun, and so too our thoughts should just be an extension of our inner minds
+    - if you look at sunlight, you notice that when it encounters an obstacle which it cannot overcome, it simply pauses there and doesn't glide off, illuminating the spot where it is shining
+    - our thoughts should follow the same pattern - they should be an extension of our inner minds, and like sunlight, they should illuminate the current situation (or obstacle), not shy away from it (or glide off)
+
+### Book IX
+
+- In what ways can man be impious?
+    - by engaging in "wrongdoing" - or somehow injuring another fellow human being, which is impious because God has made rational creatures to exist for each other's sake, and to act against another rational creature is to act against God's intent
+    - by speaking untruths - related to the first as lying can injure a fellow human, but it is worth mentioning that Marcus believes people slip into lying by neglecting their original impulses from nature (think of a child's innocent honesty) for so long that they become unable to distinguish true from false
+    - any time we pursue pleasure as good and avoid pain as evil, for these things are indifferent, and to reproach God for distributing them "unfairly" is to rail against God's design, which is clearly impious
+    - this leads to anyone who isn't indifferent towards the indifferent events dictated by nature - pleasure, pain, life, death, reputation, wealth, etc… if we don't believe these things are neither good or evil, we are impious because God has so clearly declared them so
+- What does it mean for God to use these things indifferently?
+    - it means that these things happen in "due sequence" (i.e. from some original design) without any regard to the living or their posterity
+    - so things that happen are ultimately much bigger than our small existence, and they happen with good reason from first principles which we can't understand
+- How should we regard death?
+    - we should find satisfaction in it since it is one of the things which nature intends
+    - just like other significant life events - birth, producing offspring, growing hair, etc. death is something designed by nature as a part of all life
+    - so our attitude toward death should be: "not exaggerated or violent or arrogant, but to await it as one of nature's activities, as now you wait for the time when the embryo will leave your wife's womb
+    - an easy way to process this: imagine you are in the face of death, stop and examine the current state of affairs, and the people around you, and see that they don't share your same values - it is a great weariness to live this way!
+- What are the three things we can attain at any given time that are sufficient for living a good life?
+    - a present thought which grasps reality - i.e. thinking that cuts through the bs and sees things for what they are
+    - a present action socially beneficial - i.e. acting on behalf of your fellow man
+    - a present disposition well satisfied with any happening due to an external cause - i.e. being indifferent to external events, realizing that they are all part of God's design
+- Why are men social animals?
+    - each man has a part of one intelligent soul (our reason), and because in nature like attracts like, human beings are naturally drawn together
+    - this like attracts like principle is seen everywhere - most prominently in stars and heavenly bodies, in herds of animals, plants, etc…
+    - even if we see examples among men that counter this (people acting selfishly, injuring one another, etc.), the overall principle will remain - it could only be disproven if men somehow stopped coalescing together and became solitary
+- Quote: (I don't have a question, just thought this was a good quote)
+    - "Today I left the troubles surrounding me, or rather, I cast them out. For they were not outside but within me, in my assumptions."
+- What is the biggest difference between someone who is simply seeking pleasure and someone who is fulfilling the role of rational being?
+    - the pleasure seeker finds good in being passive - in passively feeling pleasure
+    - the rational man finds his good in action - in being active, in forging ahead and living into his purpose
+    - I interpret this to mean that in order to live a fully human and meaningful life, we have to tend toward action, not passivity
+- What happens if every action of ours isn't directed to some social end?
+    - "it will break up your life and prevent it from being a unity"
+    - every person (whether they realize it or not), completes a social system, and because we are hardwired to this social system, all of our actions should be directed toward some social end
+- What should we do if someone blames or hates us?
+    - look into his/her soul and try to observe what kind of person he/she is
+    - then you will see that there is no reason to want this person to think well of you
+    - and furthermore, you should be well disposed towards them because they are by nature your friends
+- If all things are but temporary, and "the cause of all things is like a torrent, it sweeps everything along", then what is a man to do?
+    - Marcus says to do what nature now requires
+    - furthermore, you should start now, and don't worry about whether or not people are watching
+    - don't expect "Plato's ideal republic", you should measure things in the smallest step forward, and consider this a great achievement
+    - I interpret this to mean that, when we're deciding what to do or how to act, we should always think about "what nature now requires"
+    - what nature requires is just shorthand for the things Marcus has been saying all along - using your reason to think about the nature of the Whole, and your individual purpose within it, and acting with some social intent
+    - this doesn't have to be some big grand goal or scheme, you just have to do your duty by considering what you believe to be your part
+- How can we rid ourselves of many superfluous troubles?
+    - we just have to realize that many troubles exist entirely in our thoughts, which are under our control
+    - if we dwell upon the entire nature of the cosmos and how short our time is, we realize how petty these thoughts really are in the grand scheme
+- What is the nature of loss?
+    - it is no other than change
+    - because change is nothing more than the universe working according to its design, this change is good (and hence, loss is ultimately a good thing)
+    - Marcus repeats again that these things have happened in the same way through all of eternity, and will continue to happen, so why bemoan it?
+- What should we do if someone else's conduct offends us?
+    - first, ask yourself: "Is it possible for there to be no shameless men in the world?"
+    - then you will realize that it isn't possible - there will always be wrongdoers in the world, so we can't expect the impossible (i.e. that everyone we meet will be a good person)
+    - every wrongdoer has failed in some way, or otherwise isn't fulfilling his unique purpose, and if we realize that we realize that it isn't his/her fault, and we can be gentle towards him/her (and maybe teach to mend ways)
+    - furthermore, if we realize this there should be no surprises that wrongdoers act the way they do, and if we are somehow offended by it, our intelligence has failed us
+- Why should we be liberal in giving out favors, with no expectation of return?
+    - by nature, man is beneficent, and to help his fellow man is to act in accord with his own nature, his own make-up
+    - just like the eye doesn't seek some return for seeing or the feet don't seek some return for walking, it is enough that man act in accord with his nature by contributing to man, and thus contributing to the common good
+
+### Book X
+
+- Should we totally ignore the lower part of ourselves, or that which we share with all life? (i.e. the "life-soul", or our lower faculties of pleasure and pain, etc.)
+    - no, because it is a part of ourselves, and thus was deemed by nature to be so (and we already know that whatever is determined by nature is good)
+    - Marcus says that we should pay heed to this part of ourselves and welcome it, provided it doesn't affect the higher (or rational) part of ourselves for the worse
+    - I take this to mean that we shouldn't ignore or shun impulses like hunger, the drive for sex, or indulging in pleasurable acts, but we should keep them in their place and only welcome them when they don't interfere with using reason, living in accord with nature, and performing social acts
+    - it is almost another way to express the virtue of moderation with the faculty of reason - I can assess whether or not some lower impulse will affect my ability to carry out my duty, knowing that God ultimately bestowed these impulses on me for a reason, so I have to balance that
+- How should we interpret the daily events and happenings of life if we are to live in accordance with nature?
+    - we should first consider our "knowledge of nature" (i.e. what we know about the nature of the Whole), and form opinions about daily happenings from that perspective
+    - in other words, without examining everything from the lens of our doctrines, we have failed in our duty as rational beings
+    - Marcus goes on to say that we should train ourselves in "high-mindedness", which is essentially our ability to separate our rational part from all other parts, and apply our reason to become high-minded beings
+    - he says we should "Acquire a systematic view of how all things change into one another; consistently apply your mind to, and train yourself in, this aspect of the universe."
+    - the high-minded man realizes he must leave this world very soon, and he is satisfied in two things only: "to be just in his present action and to welcome his present lot. He has given up all occupations and concerns which hindered his leisure and has only one desire: to go forward along the straight path according to the law and, in so going forward, to follow God."
+- How can we see what our duty is at any given moment?
+    - at any given point, we ourselves can examine this, and a lot of times the path is clear
+    - but if we don't see it, we should "consult the best advisers"
+    - or, if we can't do that, we should "proceed cautiously according to your resources, holding on to what appears to be just. For it is best to attain justice, since any real failure is a failure to attain it. The man who follows reason in all things is both a person of leisure and prone to action, both cheerful and consistent."
+- What kind of lifestyle should we lead?
+    - as Marcus says, "Live life as on a mountain, for it matters not whether you live here or there, if one can live anywhere in the world as in a community."
+    - this means live simply, and in accordance with Stoic principles, for the time left to us is short, and there is no point to worrying about trifling lifestyle choices
+    - if people exhort you for this, then let them - it is better to die than to live as others who ignore their reason and purpose, and who become obsessed with earthly and transient things
+
+### Book XI
+
+- What are the properties of the rational soul?
+    - "it sees itself, it shapes itself, it makes itself such as it wishes to be, it gathers its own fruit, whereas the fruit of plants and what animals may be said to produce as fruit is gathered by others."
+    - furthermore, "The rational soul achieves its end at whatever point life may be cut off, unlike a dance, a play, and the like, where the whole performance is incomplete if it is interrupted; but in every scene, wherever it is overtaken by death, its intended task is completely fulfilled, so that it can say: "I am in full possession of what is my own".
+    - a beautiful passage that pretty much sums up Marcus' conception of the fully rational being - the idea the rational person is always living in accord with his/her purpose and in accord with nature so that death could come upon them at any point and he/she would have lived a fully human life with no regrets
+    - he also goes on to say that the rational soul loves its neighbors, is truthful, and honors nothing more than itself
+- How should we live in society and regard our fellow man?
+    - as Marcus has said before, it is natural and good for us to live in a community, and to perform social actions on behalf of our fellow man
+    - to separate ourselves from this community is against nature and our rational mind
+    - but recognizing that we can sometimes stray, God has given us the ability to reunite ourselves with that community again
+    - but even though we should live in a community with other men, we shouldn't necessarily share the majority's doctrines or beliefs
+    - furthermore, these men cannot turn us away from acting in accordance with nature and our reason, and even if they try, we should still retain our kindly feelings towards them
+    - for to ignore our duty and be angry with them is to ignore God
+    - this is no better than "the man who desists from action and yields to fear"
+- What is Marcus' blueprint for living the good life?
+    - we first realize that the power to live the good life is most definitely within our power - nothing can prevent us from doing so
+    - but in order to retain this power, we have to be indifferent to external events and things of no importance
+    - in everything, we must analyze it as part of the whole, and think about how it fits in
+    - and more importantly, we must not pass judgment upon external events which are by nature indifferent, and if we do, we have the power to erase those judgments completely
+    - because ultimately, those judgments and that attention we give to trifling things is short lived (as are we), and life will soon cease, and those things will cease to matter
+    - in the end, we have to find out what is in accord with our nature and go to that even if it brings us no fame or pleasure, "for every creature is forgiven if it seeks its own proper good"
+- What are Marcus' precepts for living with other men?
+    - first: realize we were all born for each others' sake, and the lower beings exist for the higher (i.e. like an animal provides food for humans)
+    - second: examine a man's convictions to make sense of his compulsions
+    - third: if men act right, we must accept this as natural, but if they act wrongly, we must accept that they do so involuntarily out of ignorance, for no one willingly performs wrongs
+    - fourth: you yourself frequently err by having dispositions to commit certain wrongs, even if you refrain from committing them because of cowardice or the esteem of others
+    - fifth: don't jump to conclusions about the wrongness or rightness of a man's actions, for everything is done according to plan, and if we don't understand that plan we can't judge fairly
+    - sixth: if you get angry or impatient with someone, "remember that the life of a man lasts but a moment"
+    - seventh: we don't get annoyed by the actions of others, we get annoyed by our own conceptions of those actions. so if we throw away our judgment of those actions, our anger will be gone
+    - eighth: the consequences of our anger that comes from our judgment is much harder to bear than the actions themselves
+    - ninth: kindliness makes you invincible, but only if it is genuine, for even if someone else is acting against you, by remaining kindly towards him/her, you make yourself impenetrable to harm
+    - tenth: it is madness to expect inferior men to do no wrong, for this is impossible
+- What happens to the man who doesn't have a single and constant aim throughout life?
+    - he can't remain the same man - which means he will always be affected by the various events in life and not use his directing mind to fulfill his purpose
+    - but this single and constant aim isn't the same for all people, but it is the same kind: a social good
+    - in other words, that single and constant aim should be social and pertain to the community, should help other people
+
+### Book XII
+
+- What is Marcus' final characterization of the good life (and good man)?
+    - first, cease to think of the past and leave the future in the hands of God
+    - only focus on the present as a path to piety and justice
+    - we are pious when we accept our situation and celebrate it, for God brought it to us, and for that reason it is good
+    - then, "be not impeded by another's wickedness", or don't begrudge the doings of another
+    - also, don't be impeded "by the sensations of that flesh which has grown around you", for they are the concern only of the body that feels them, and certainly not the concern of the directing mind
+    - and when death is upon you, focus only on your directing mind and the divine within you, and fear nothing but not living in accord with nature
+- Why should we practice to live only in the present?
+    - Marcus talks about a person being a combination of three parts: body, "vital breath", and intellect
+    - we control the intellect, and the only way to really exercise it is to separate it from external events and the passions of the body
+    - part of this free mind is letting go of the past and what may happen in the future, as one is gone and the other is ultimately unknown
+    - only by using this intellect to focus on living in the present are we able to truly exercise the directing mind freely, which is ultimately the way to fulfill our duty/purpose
+- Why shouldn't we blame anyone (men or God)?
+    - because God does no wrong - either voluntary or involuntary
+    - and man does no wrong that isn't involuntary, and how can we blame someone for something they can't help?
+    - so if we can't blame God or man, there isn't anyone else left to blame!
+- What are the three thoughts we should have ready to use when considering any thing or circumstance?
+    - our actions should not be without purpose, and they should be nothing less than Justice herself would've performed
+    - second, judge each being by what it truly is by considering its design from birth to death, and from what elements it was constituted
+    - third, imagine you were "taken up into the sky" to look upon human affairs: you would notice the same things that have happened over and over for years and years: monotony and shortness of life

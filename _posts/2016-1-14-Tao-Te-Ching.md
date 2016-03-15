@@ -1,0 +1,70 @@
+---
+layout: post
+title: Tao Te Ching - Book Notes
+permalink: /tao-te-ching
+tags:
+- books
+- philosophy
+excerpt: You probably already know what the Tao Te Ching is. But in the off chance you don't, it is nothing less than thousands of years of Eastern philosophy, synthesized into short little verses. I myself only got interested in Eastern philosophy after college (after I'd been corrupted by the westerners!), and I consider it a shame it took me so long to read this one. Because once you read it, you never truly finish. Each verse contains a depth one can never truly fathom, but of course the search is the rewarding part. Seriously, read this. 
+---
+- Verse 1
+    - “Within the nameless is the true meaning”
+    - or, names aren’t the true meaning of a thing
+    - those who aren’t bound by desire can see the ‘unseeable’, otherwise they just see external illusions
+- Verse 2
+    - opposites define each other, without one the other has no meaning (i.e. what is beautiful is only beautiful because of the ugliness that coexists with it)
+    - it is only by embracing this do we stay in balance with nature (creating without possessing, accomplishing without taking credit, moving forward forgotten)
+- Verse 3
+    - desiring not to possess or accumulate that which is only temporal prevents temptation and keeps the heart and mind pure
+    - you must empty your heart of desire, and by doing so you live a simple and free life
+- Verse 4
+    - “The Tao is like a vase that is empty yet used”; it is the emptiness that gives birth to the vase
+    - “This emptiness, deep and unfathomable, is the source of the ten thousand things”
+- Verse 5
+    - “Heaven and Earth act without intention or benevolence and are not moved or swayed by offerings of straw dogs”
+    - “Through these actions the Sage remains tranquil and centered, sitting quietly while seeing the truth within”
+    - “So with you. Stay centered with your thoughts”
+- Verse 7
+    - “For Heaven and Earth do not exist for its own sake”
+    - “Like the Heaven and Earth, the Sage too lives the same, putting himself last”
+    - “By doing so the Sage becomes first, through being unselfish and serving the needs of others”
+- Verse 8
+    - “The highest good is like water”
+    - “Water brings life to ten thousand things, bringing nourishment without striving”
+    - “It seeks out the lowest levels to settle, places that people avoid and despise”
+    - “The Sage is like water, living his life in accordance with nature, going with the flow of life”
+- Verse 9
+    - “When your work is done, then retire”
+    - “The Sage seeks neither fame nor fortune”
+    - “Withdrawing once the work is done in a natural manner”
+- Verse 10
+    - “Embrace your body and soul as one - how can you avoid the separation?”
+    - “Can you control your Ego and stay within your authentic self?”
+    - “Give birth and nourish without attachment”
+    - “To have without the need to possess”
+    - “To create and give without need of the credit”
+    - “Leading without being dominating”
+    - “Leading by example rather than rule”
+- Verse 11
+    - Thirty spokes connect at the center of the wheel at the hub; it is the center of emptiness of the hub that makes the wheel useful
+    - “When shaping clay, it is the emptiness that creates the vase; it is in the emptiness that makes it useful”
+    - “The usefulness of what exists depends on what doesn’t exist, such is the essence of non-existence”
+- Verse 12
+    - “Excessive desires will madden the mind, excessive possessions preoccupy the mind with fear”
+    - “The more you desire, the more you’ll be discontented from what you have”
+    - “The Sage satisfies his inner desires with what cannot be seen, not with the external temptations of the world”
+- Verse 14
+    - “What cannot be seen is invisible, what cannot be heard is inaudible, that which cannot be held is intangible”
+    - “These three are beyond definition, therefore they are as one”
+    - “Embrace it and you’ll find no beginning or end, you cannot know it but you can be part of it, embrace the experience beyond words and feel the essence of the Tao”
+- Verse 16
+    - “Empty yourself completely, bring your mind to rest and your heart to peace, allow the ten thousand things to come and go while just observing, see how one ending is just another beginning”
+    - “Come to know the eternal wisdom by returning to the divine source and realize your destiny, for this is the enlightenment of the Tao”
+- Verse 18
+    - “When the great way of the Tao is forgotten, benevolence and righteousness will become prevalent, then wisdom and logic will be born, bringing about great pretense and hypocrisy followed by disorder”
+    - “When harmony and balance cease to exist and man has lost his way, the virtue of caring for one another and love will arise from the chaos”
+- Verse 19
+    - “Do away with morals and justice and people will begin to do the right things”
+    - “Give up the desire for wealth, and thieves and robbers will disappear”
+    - “More important is living in a simple manner within one’s own nature and keeping the well-being of others at heart”
+    - “Living an unpretentious life with compassion and keeping your desires tempered is to live in your own true nature"
