@@ -11,10 +11,10 @@ In other words, I'm fascinated by the liberal arts of technology: psychology, de
 
 If you've read this far, you might want to check out a few other things about me:
 
-    * [Here's what I'm currently up to.]({{ site.baseurl }}/now)
-    * [Check out my LinkedIn page for more than you ever wanted to know about my work history.](https://www.linkedin.com/in/andydrice)
-    * [I've also got this blog thing where I occasionally write stuff.]({{ site.baseurl }}/blog)
-    * [I also keep my projects list semi-updated with stuff I'm doing.]({{ site.baseurl }}/projects)
+ * [Here's what I'm currently up to.]({{ site.baseurl }}/now)
+ * [Check out my LinkedIn page for more than you ever wanted to know about my work history.](https://www.linkedin.com/in/andydrice)
+ * [I've also got this blog thing where I occasionally write stuff.]({{ site.baseurl }}/blog)
+ * [I also keep my projects list semi-updated with stuff I'm doing.]({{ site.baseurl }}/projects)
 
 I love talking to new people and read every email, so don't hesitate to drop me a line.
 
