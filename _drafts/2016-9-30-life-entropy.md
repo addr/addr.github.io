@@ -1,0 +1,6 @@
+---
+layout: post
+title: Life Tends Toward Entropy
+permalink: /entropy
+excerpt: We're all probably struggling with something. Just recently I finished watching the first season of the excellent Master of None where Dev, the main character, struggles with something anyone who has ever been in a serious relationship struggles with: when do I know this person is *the one*? What if I have doubts, or I'm scared that he/she might not be *the one*? If he/she really were *the one*, shouldn't that mean I don't have these doubts? And so on. So I started thinking about questions like: why do we get married? why do people feel the need to do things like uproot themselves and move to Japan because if they don't do it now they never will? What motivates our seemingly constant existential angst whenever confronted with what seem like big life questions? I propose that the reasons, no matter the manifestation, all come back to one truth that we all unconsciously realize, but don't ever consciously confront: that life, like energy and information, tends toward entropy. We do whatever we can to fend off entropy, that lukewarm existence, and we demonize what we see as entropic forces (in Dev's case: marriage, kids). 
+---
