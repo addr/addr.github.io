@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Make Technology Human
-permalink: /make-technology-human/
+permalink:/make-technology-human/
 excerpt: I've often struggled to articulate my own ultimate "whys", or the reasons behind why I do what I do, and otherwise understand my own unique contributions. I've always loved technology for its own sake (still do), but I could never put my finger on why I've made it my vocation, rather than a hobby. I think the answer has something to do with what I'm pithily summarizing as 'Make technology human.' 
 
 ---
